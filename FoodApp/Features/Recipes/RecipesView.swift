@@ -93,14 +93,8 @@ struct RecipesView: View {
         if viewModel.isLoading {
             ForEach(0..<3, id: \.self) { _ in RecipeCardSkeleton() }
         } else if viewModel.isEmptyResult {
-            EmptyStateView(
-                title: L10n.Recipes.emptyTitle,
-                message: L10n.Recipes.emptyMessage,
-                systemImage: "fork.knife",
-                primaryTitle: viewModel.filters.isDefault ? nil : L10n.Recipes.resetFilters,
-                primaryAction: viewModel.filters.isDefault ? nil : viewModel.resetFilters
-            )
-            .padding(.top, Theme.Spacing.xl)
+            emptyState
+                .padding(.top, Theme.Spacing.xl)
         } else {
             if !viewModel.cookNow.isEmpty {
                 SectionHeader(title: L10n.Recipes.sectionCookNow)
@@ -113,6 +107,20 @@ struct RecipesView: View {
                 cards(viewModel.almost)
             }
         }
+    }
+
+    private var emptyState: EmptyStateView {
+        var resetAction: (() -> Void)?
+        if !viewModel.filters.isDefault {
+            resetAction = { viewModel.resetFilters() }
+        }
+        return EmptyStateView(
+            title: L10n.Recipes.emptyTitle,
+            message: L10n.Recipes.emptyMessage,
+            systemImage: "fork.knife",
+            primaryTitle: resetAction == nil ? nil : L10n.Recipes.resetFilters,
+            primaryAction: resetAction
+        )
     }
 
     private func cards(_ matches: [RecipeMatch]) -> some View {
