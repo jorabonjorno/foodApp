@@ -1,0 +1,2491 @@
+{
+  "sourceLanguage": "ru",
+  "strings": {
+    "add_ingredient.add_custom": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавить «%@»"
+          }
+        }
+      }
+    },
+    "add_ingredient.added": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "«%@» в списке"
+          }
+        }
+      }
+    },
+    "add_ingredient.placeholder": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Например, помидоры"
+          }
+        }
+      }
+    },
+    "add_ingredient.popular": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Популярные"
+          }
+        }
+      }
+    },
+    "add_ingredient.suggestions": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Подходящие"
+          }
+        }
+      }
+    },
+    "add_ingredient.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавить продукт"
+          }
+        }
+      }
+    },
+    "camera.choose_photo": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Выбрать из Фото"
+          }
+        }
+      }
+    },
+    "camera.continue": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Продолжить"
+          }
+        }
+      }
+    },
+    "camera.demo_photo": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Использовать демо-фото"
+          }
+        }
+      }
+    },
+    "camera.denied_message": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Разрешите доступ в Настройках или выберите фото из галереи."
+          }
+        }
+      }
+    },
+    "camera.denied_title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Нет доступа к камере"
+          }
+        }
+      }
+    },
+    "camera.intro_subtitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI определит, что у вас есть, а вы сможете поправить список."
+          }
+        }
+      }
+    },
+    "camera.intro_title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сфотографируйте продукты"
+          }
+        }
+      }
+    },
+    "camera.load_failed": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не удалось загрузить фото."
+          }
+        }
+      }
+    },
+    "camera.preview_title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Проверьте фото"
+          }
+        }
+      }
+    },
+    "camera.privacy": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Фото используется только для распознавания продуктов."
+          }
+        }
+      }
+    },
+    "camera.retake": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Переснять"
+          }
+        }
+      }
+    },
+    "camera.take_photo": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сделать фото"
+          }
+        }
+      }
+    },
+    "camera.tip_fridge": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Можно снимать открытый холодильник или стол"
+          }
+        }
+      }
+    },
+    "camera.tip_light": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Хорошее освещение"
+          }
+        }
+      }
+    },
+    "camera.tip_visible": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Продукты видны целиком"
+          }
+        }
+      }
+    },
+    "camera.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Фото продуктов"
+          }
+        }
+      }
+    },
+    "camera.unavailable": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Камера недоступна на этом устройстве."
+          }
+        }
+      }
+    },
+    "category.bakery": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Хлеб"
+          }
+        }
+      }
+    },
+    "category.dairy": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Молочное"
+          }
+        }
+      }
+    },
+    "category.drinks": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Напитки"
+          }
+        }
+      }
+    },
+    "category.eggs": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Яйца"
+          }
+        }
+      }
+    },
+    "category.fish": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Рыба"
+          }
+        }
+      }
+    },
+    "category.fruits": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Фрукты"
+          }
+        }
+      }
+    },
+    "category.grains": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Крупы и бобовые"
+          }
+        }
+      }
+    },
+    "category.meat": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Мясо"
+          }
+        }
+      }
+    },
+    "category.nuts": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Орехи"
+          }
+        }
+      }
+    },
+    "category.other": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Другое"
+          }
+        }
+      }
+    },
+    "category.sauces": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Соусы и масла"
+          }
+        }
+      }
+    },
+    "category.spices": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Специи"
+          }
+        }
+      }
+    },
+    "category.sweets": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сладкое"
+          }
+        }
+      }
+    },
+    "category.vegetables": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Овощи"
+          }
+        }
+      }
+    },
+    "common.add": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавить"
+          }
+        }
+      }
+    },
+    "common.any": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Все"
+          }
+        }
+      }
+    },
+    "common.cancel": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отмена"
+          }
+        }
+      }
+    },
+    "common.close": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Закрыть"
+          }
+        }
+      }
+    },
+    "common.delete": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Удалить"
+          }
+        }
+      }
+    },
+    "common.done": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Готово"
+          }
+        }
+      }
+    },
+    "common.open_settings": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Открыть настройки"
+          }
+        }
+      }
+    },
+    "common.reset": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сбросить"
+          }
+        }
+      }
+    },
+    "common.retry": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Повторить"
+          }
+        }
+      }
+    },
+    "common.save": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сохранить"
+          }
+        }
+      }
+    },
+    "difficulty.easy": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Легко"
+          }
+        }
+      }
+    },
+    "difficulty.hard": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сложно"
+          }
+        }
+      }
+    },
+    "difficulty.medium": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Средне"
+          }
+        }
+      }
+    },
+    "error.camera_message": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Выберите фото из галереи."
+          }
+        }
+      }
+    },
+    "error.camera_title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Камера недоступна"
+          }
+        }
+      }
+    },
+    "error.generic_message": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Попробуйте ещё раз чуть позже."
+          }
+        }
+      }
+    },
+    "error.generic_title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Что-то пошло не так"
+          }
+        }
+      }
+    },
+    "error.network_message": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не удалось связаться с сервером. Попробуйте ещё раз."
+          }
+        }
+      }
+    },
+    "error.network_title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Проверьте подключение к интернету"
+          }
+        }
+      }
+    },
+    "error.no_foods_message": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "На фото не нашлось продуктов. Попробуйте другой ракурс."
+          }
+        }
+      }
+    },
+    "error.recognition_message": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Попробуйте сделать фото при лучшем освещении или добавьте продукты вручную."
+          }
+        }
+      }
+    },
+    "error.recognition_title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не удалось распознать продукты"
+          }
+        }
+      }
+    },
+    "error.timeout_message": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сервер долго не отвечает. Попробуйте ещё раз."
+          }
+        }
+      }
+    },
+    "favorites.empty_message": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Нажмите ♡ на рецепте, чтобы сохранить его."
+          }
+        }
+      }
+    },
+    "favorites.empty_title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Здесь появятся избранные рецепты"
+          }
+        }
+      }
+    },
+    "favorites.find_recipes": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Найти рецепты"
+          }
+        }
+      }
+    },
+    "favorites.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Избранное"
+          }
+        }
+      }
+    },
+    "filters.advanced": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Расширенные фильтры"
+          }
+        }
+      }
+    },
+    "filters.allow_missing": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Показывать рецепты, для которых не хватает продуктов"
+          }
+        }
+      }
+    },
+    "filters.allow_missing_hint": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Выключите, чтобы видеть только то, что можно приготовить прямо сейчас"
+          }
+        }
+      }
+    },
+    "filters.any_time": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Неважно"
+          }
+        }
+      }
+    },
+    "filters.apply": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Показать рецепты"
+          }
+        }
+      }
+    },
+    "filters.difficulty": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сложность"
+          }
+        }
+      }
+    },
+    "filters.exclude": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Исключить продукты"
+          }
+        }
+      }
+    },
+    "filters.exclude_placeholder": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Например, грибы"
+          }
+        }
+      }
+    },
+    "filters.meal_type": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тип блюда"
+          }
+        }
+      }
+    },
+    "filters.must_include": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Обязательно использовать"
+          }
+        }
+      }
+    },
+    "filters.servings": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Порции"
+          }
+        }
+      }
+    },
+    "filters.time": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Время"
+          }
+        }
+      }
+    },
+    "filters.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Фильтры"
+          }
+        }
+      }
+    },
+    "filters.up_to": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "До %lld мин"
+          }
+        }
+      }
+    },
+    "history.empty_title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Пока нет сканирований"
+          }
+        }
+      }
+    },
+    "history.subtitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Прошлые списки продуктов"
+          }
+        }
+      }
+    },
+    "history.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "История сканирований"
+          }
+        }
+      }
+    },
+    "home.add_manually": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавить продукты вручную"
+          }
+        }
+      }
+    },
+    "home.cook_from_pantry": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Приготовить из моих продуктов"
+          }
+        }
+      }
+    },
+    "home.favorite_recipes": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Избранные рецепты"
+          }
+        }
+      }
+    },
+    "home.greeting_day": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добрый день"
+          }
+        }
+      }
+    },
+    "home.greeting_evening": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добрый вечер"
+          }
+        }
+      }
+    },
+    "home.greeting_morning": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Доброе утро"
+          }
+        }
+      }
+    },
+    "home.pantry_count": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld продукт"
+                }
+              },
+              "few": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld продукта"
+                }
+              },
+              "many": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld продуктов"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld продуктов"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "home.privacy_note": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Фото используется только для распознавания продуктов и нигде не хранится."
+          }
+        }
+      }
+    },
+    "home.scan_button": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сфотографировать продукты"
+          }
+        }
+      }
+    },
+    "home.scans_left": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Осталось сканирований: %lld из %lld"
+          }
+        }
+      }
+    },
+    "home.subtitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сфотографируйте продукты — мы подберём рецепты"
+          }
+        }
+      }
+    },
+    "home.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Что приготовить?"
+          }
+        }
+      }
+    },
+    "ingredients.add_product": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавить продукт"
+          }
+        }
+      }
+    },
+    "ingredients.check_hint": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Проверьте список — AI может ошибаться"
+          }
+        }
+      }
+    },
+    "ingredients.decrease": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Меньше"
+          }
+        }
+      }
+    },
+    "ingredients.empty_message": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавьте хотя бы один продукт — и мы подберём рецепты."
+          }
+        }
+      }
+    },
+    "ingredients.empty_title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавьте продукты, чтобы начать"
+          }
+        }
+      }
+    },
+    "ingredients.found": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Мы нашли %lld продукт"
+                }
+              },
+              "few": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Мы нашли %lld продукта"
+                }
+              },
+              "many": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Мы нашли %lld продуктов"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Мы нашли %lld продуктов"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "ingredients.increase": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Больше"
+          }
+        }
+      }
+    },
+    "ingredients.low_confidence": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Проверьте — AI не уверен"
+          }
+        }
+      }
+    },
+    "ingredients.manual_hint": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавьте продукты, которые есть дома"
+          }
+        }
+      }
+    },
+    "ingredients.manual_title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ваши продукты"
+          }
+        }
+      }
+    },
+    "ingredients.quantity_a11y": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Количество: %@"
+          }
+        }
+      }
+    },
+    "ingredients.quantity_unknown": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "не указано"
+          }
+        }
+      }
+    },
+    "ingredients.rename": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Переименовать"
+          }
+        }
+      }
+    },
+    "ingredients.rename_placeholder": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Название продукта"
+          }
+        }
+      }
+    },
+    "ingredients.save_to_pantry": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сохранить в «Мои продукты»"
+          }
+        }
+      }
+    },
+    "ingredients.saved_to_pantry": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сохранено в «Мои продукты»"
+          }
+        }
+      }
+    },
+    "ingredients.show_recipes": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Показать рецепты"
+          }
+        }
+      }
+    },
+    "meal.baking": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Выпечка"
+          }
+        }
+      }
+    },
+    "meal.breakfast": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Завтрак"
+          }
+        }
+      }
+    },
+    "meal.dessert": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Десерт"
+          }
+        }
+      }
+    },
+    "meal.dinner": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ужин"
+          }
+        }
+      }
+    },
+    "meal.lunch": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Обед"
+          }
+        }
+      }
+    },
+    "meal.other": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Другое"
+          }
+        }
+      }
+    },
+    "meal.salad": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Салат"
+          }
+        }
+      }
+    },
+    "meal.soup": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Суп"
+          }
+        }
+      }
+    },
+    "pantry.clear_all": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Очистить всё"
+          }
+        }
+      }
+    },
+    "pantry.clear_confirm": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Удалить все продукты?"
+          }
+        }
+      }
+    },
+    "pantry.empty_message": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сохраните, что есть дома, — и подбирайте рецепты без фото."
+          }
+        }
+      }
+    },
+    "pantry.empty_title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавьте продукты, чтобы начать"
+          }
+        }
+      }
+    },
+    "pantry.fridge": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Холодильник"
+          }
+        }
+      }
+    },
+    "pantry.other": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Другое"
+          }
+        }
+      }
+    },
+    "pantry.produce": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Овощи и фрукты"
+          }
+        }
+      }
+    },
+    "pantry.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Мои продукты"
+          }
+        }
+      }
+    },
+    "pantry.what_to_cook": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Что приготовить из этого?"
+          }
+        }
+      }
+    },
+    "paywall.billed_monthly": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Оплата каждый месяц"
+          }
+        }
+      }
+    },
+    "paywall.cta": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Попробовать PRO"
+          }
+        }
+      }
+    },
+    "paywall.feature_filters": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Расширенные фильтры"
+          }
+        }
+      }
+    },
+    "paywall.feature_history": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "История сканирований"
+          }
+        }
+      }
+    },
+    "paywall.feature_menu": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Меню на неделю"
+          }
+        }
+      }
+    },
+    "paywall.feature_scans": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld AI-сканирование в месяц"
+                }
+              },
+              "few": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld AI-сканирования в месяц"
+                }
+              },
+              "many": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld AI-сканирований в месяц"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld AI-сканирований в месяц"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "paywall.feature_shopping": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Список покупок"
+          }
+        }
+      }
+    },
+    "paywall.legal": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Подписка продлевается автоматически, если не отменить её минимум за 24 часа до конца периода. Управлять подпиской можно в настройках App Store."
+          }
+        }
+      }
+    },
+    "paywall.monthly": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Месяц"
+          }
+        }
+      }
+    },
+    "paywall.nothing_to_restore": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Активных покупок не найдено."
+          }
+        }
+      }
+    },
+    "paywall.per_month": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ в месяц"
+          }
+        }
+      }
+    },
+    "paywall.pro_badge_a11y": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Доступно в PRO"
+          }
+        }
+      }
+    },
+    "paywall.products_unavailable": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не удалось загрузить подписки. Попробуйте позже."
+          }
+        }
+      }
+    },
+    "paywall.purchase_failed": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Покупка не прошла. Попробуйте ещё раз."
+          }
+        }
+      }
+    },
+    "paywall.save": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Выгоднее на %lld%%"
+          }
+        }
+      }
+    },
+    "paywall.scans_title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Вы использовали %lld бесплатное сканирование"
+                }
+              },
+              "few": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Вы использовали %lld бесплатных сканирования"
+                }
+              },
+              "many": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Вы использовали %lld бесплатных сканирований"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Вы использовали %lld бесплатных сканирований"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "paywall.subtitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Получайте больше идей для приготовления."
+          }
+        }
+      }
+    },
+    "paywall.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Готовьте больше с PRO"
+          }
+        }
+      }
+    },
+    "paywall.unlock": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Открыть в PRO"
+          }
+        }
+      }
+    },
+    "paywall.yearly": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Год"
+          }
+        }
+      }
+    },
+    "profile.debug_premium": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Включить PRO (тест)"
+          }
+        }
+      }
+    },
+    "profile.debug_reset_scans": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сбросить счётчик сканов"
+          }
+        }
+      }
+    },
+    "profile.debug_title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Режим разработки (mock)"
+          }
+        }
+      }
+    },
+    "profile.free_plan": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Бесплатный план"
+          }
+        }
+      }
+    },
+    "profile.language": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Язык приложения"
+          }
+        }
+      }
+    },
+    "profile.manage": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Управлять подпиской"
+          }
+        }
+      }
+    },
+    "profile.photo_note": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Фото продуктов отправляются только для распознавания и не сохраняются ни в приложении, ни на сервере."
+          }
+        }
+      }
+    },
+    "profile.privacy": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Конфиденциальность"
+          }
+        }
+      }
+    },
+    "profile.pro_active": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PRO активен"
+          }
+        }
+      }
+    },
+    "profile.restore": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Восстановить покупки"
+          }
+        }
+      }
+    },
+    "profile.restored": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Покупки восстановлены"
+          }
+        }
+      }
+    },
+    "profile.scans_usage": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сканирований в этом месяце: %lld из %lld"
+          }
+        }
+      }
+    },
+    "profile.terms": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Условия использования"
+          }
+        }
+      }
+    },
+    "profile.version": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Версия %@"
+          }
+        }
+      }
+    },
+    "recipe.add_to_favorites": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавить в избранное"
+          }
+        }
+      }
+    },
+    "recipe.added_to_favorites": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавлено в избранное"
+          }
+        }
+      }
+    },
+    "recipe.available": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Есть %lld из %lld ингредиентов"
+          }
+        }
+      }
+    },
+    "recipe.can_cook": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Можно приготовить"
+          }
+        }
+      }
+    },
+    "recipe.have": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "есть"
+          }
+        }
+      }
+    },
+    "recipe.in_favorites": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "В избранном"
+          }
+        }
+      }
+    },
+    "recipe.ingredients": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ингредиенты"
+          }
+        }
+      }
+    },
+    "recipe.minutes": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld мин"
+          }
+        }
+      }
+    },
+    "recipe.missing": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "нет"
+          }
+        }
+      }
+    },
+    "recipe.missing_count": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не хватает: %lld"
+          }
+        }
+      }
+    },
+    "recipe.missing_list": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не хватает: %@"
+          }
+        }
+      }
+    },
+    "recipe.open": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Открыть рецепт"
+          }
+        }
+      }
+    },
+    "recipe.optional": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "по желанию"
+          }
+        }
+      }
+    },
+    "recipe.remove_from_favorites": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Убрать из избранного"
+          }
+        }
+      }
+    },
+    "recipe.servings": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld порция"
+                }
+              },
+              "few": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld порции"
+                }
+              },
+              "many": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld порций"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld порций"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "recipe.share": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Поделиться"
+          }
+        }
+      }
+    },
+    "recipe.step": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Шаг %lld"
+          }
+        }
+      }
+    },
+    "recipe.steps": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Приготовление"
+          }
+        }
+      }
+    },
+    "recipes.cook_now": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Всё есть"
+          }
+        }
+      }
+    },
+    "recipes.easy": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Легко"
+          }
+        }
+      }
+    },
+    "recipes.empty_message": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Попробуйте изменить фильтры или добавить продукты."
+          }
+        }
+      }
+    },
+    "recipes.empty_title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не нашли подходящих рецептов"
+          }
+        }
+      }
+    },
+    "recipes.filters": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Фильтры"
+          }
+        }
+      }
+    },
+    "recipes.quick": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "До 30 мин"
+          }
+        }
+      }
+    },
+    "recipes.reset_filters": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сбросить фильтры"
+          }
+        }
+      }
+    },
+    "recipes.section_almost": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Почти всё есть"
+          }
+        }
+      }
+    },
+    "recipes.section_cook_now": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Можно приготовить сейчас"
+          }
+        }
+      }
+    },
+    "recipes.subtitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Из ваших продуктов"
+          }
+        }
+      }
+    },
+    "recipes.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Что можно приготовить?"
+          }
+        }
+      }
+    },
+    "recognition.add_manually": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ввести продукты вручную"
+          }
+        }
+      }
+    },
+    "recognition.retake_photo": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Переснять фото"
+          }
+        }
+      }
+    },
+    "recognition.step1": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Распознаём продукты…"
+          }
+        }
+      }
+    },
+    "recognition.step2": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Оцениваем количество…"
+          }
+        }
+      }
+    },
+    "recognition.step3": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Почти готово…"
+          }
+        }
+      }
+    },
+    "recognition.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ищем продукты…"
+          }
+        }
+      }
+    },
+    "shopping.add_missing": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавить недостающее в покупки"
+          }
+        }
+      }
+    },
+    "shopping.added": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "В список покупок: +%lld"
+          }
+        }
+      }
+    },
+    "shopping.already_added": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Уже в списке покупок"
+          }
+        }
+      }
+    },
+    "shopping.empty_message": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавляйте недостающие продукты прямо из рецепта."
+          }
+        }
+      }
+    },
+    "shopping.empty_title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Список покупок пуст"
+          }
+        }
+      }
+    },
+    "shopping.locked_message": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Недостающие продукты из рецептов — в одном списке."
+          }
+        }
+      }
+    },
+    "shopping.locked_title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Список покупок — в PRO"
+          }
+        }
+      }
+    },
+    "shopping.move_to_pantry": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Купленное — в мои продукты"
+          }
+        }
+      }
+    },
+    "shopping.moved_to_pantry": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Перенесено в продукты: %lld"
+          }
+        }
+      }
+    },
+    "shopping.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Покупки"
+          }
+        }
+      }
+    },
+    "tab.favorites": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Избранное"
+          }
+        }
+      }
+    },
+    "tab.home": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Главная"
+          }
+        }
+      }
+    },
+    "tab.pantry": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Продукты"
+          }
+        }
+      }
+    },
+    "tab.profile": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Профиль"
+          }
+        }
+      }
+    },
+    "weekly.add_missing": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Всё недостающее — в покупки"
+          }
+        }
+      }
+    },
+    "weekly.hint": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Подобрали разнообразные блюда с учётом ваших продуктов."
+          }
+        }
+      }
+    },
+    "weekly.regenerate": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Собрать заново"
+          }
+        }
+      }
+    },
+    "weekly.subtitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "7 блюд из ваших продуктов"
+          }
+        }
+      }
+    },
+    "weekly.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Меню на неделю"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

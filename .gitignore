@@ -1,0 +1,10 @@
+.DS_Store
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.xcresult
+xcodebuild.log
+node_modules/
+.wrangler/
+.dev.vars

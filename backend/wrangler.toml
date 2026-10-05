@@ -1,0 +1,18 @@
+name = "foodapp-proxy"
+main = "src/index.ts"
+compatibility_date = "2026-09-01"
+compatibility_flags = ["nodejs_compat"]
+
+# Секреты (НЕ хранятся в репозитории):
+#   npx wrangler secret put ANTHROPIC_API_KEY
+#   npx wrangler secret put APP_TOKEN          # то же значение, что API_APP_TOKEN в Xcode
+
+[vars]
+# Модель распознавания. Меняется здесь без релиза приложения.
+AI_MODEL = "claude-haiku-4-5"
+
+# Ограничение частоты по IP (бесплатно в Cloudflare Workers): 10 запросов в минуту.
+[[ratelimits]]
+name = "LIMITER"
+namespace_id = "1001"
+simple = { limit = 10, period = 60 }
