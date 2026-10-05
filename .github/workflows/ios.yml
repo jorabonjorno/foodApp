@@ -71,7 +71,11 @@ jobs:
             CODE_SIGNING_ALLOWED=NO > xcodebuild.log 2>&1
           STATUS=$?
           grep -E "error:|Test Case .*failed|\*\* (BUILD|TEST) (SUCCEEDED|FAILED)|Executed [0-9]+ test" xcodebuild.log | sort -u | head -200
-          if [ $STATUS -ne 0 ]; then echo "----- tail -----"; tail -n 60 xcodebuild.log; fi
+          if [ $STATUS -ne 0 ]; then
+            echo "----- tail -----"; tail -n 60 xcodebuild.log
+            # Ошибки → аннотации GitHub (видны на странице прогона и через API без логина).
+            python3 .github/scripts/annotate.py xcodebuild.log
+          fi
           exit $STATUS
 
       - name: Upload logs
