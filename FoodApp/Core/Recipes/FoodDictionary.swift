@@ -143,7 +143,7 @@ enum FoodDictionary {
         .init("canned_fish", "Рыбные консервы", "🥫", .fish, unit: "банка", parent: "fish", synonyms: ["рыбные консервы", "сайра", "шпроты", "горбуша консервированная", "canned fish", "sardines"]),
         .init("turkey", "Индейка", "🦃", .meat, unit: "г", synonyms: ["индейка", "филе индейки", "turkey", "turkey breast"]),
         .init("liver", "Печень", "🥩", .meat, unit: "г", synonyms: ["печень", "куриная печень", "говяжья печень", "liver", "chicken liver"]),
-        .init("cream_cheese", "Сливочный сыр", "🧀", .dairy, unit: "г", parent: "cheese", synonyms: ["сливочный сыр", "творожный сыр", "крем чиз", "филадельфия", "cream cheese"]),
+        .init("cream_cheese", "Сливочный сыр", "🧀", .dairy, unit: "г", parent: "cheese", synonyms: ["сливочный сыр", "творожный сыр", "крем чиз", "филадельфия", "маскарпоне", "cream cheese", "mascarpone"]),
         .init("processed_cheese", "Плавленый сыр", "🧀", .dairy, unit: "г", parent: "cheese", synonyms: ["плавленый сыр", "плавленый сырок", "processed cheese"]),
         .init("condensed_milk", "Сгущёнка", "🥫", .sweets, unit: "г", synonyms: ["сгущенка", "сгущенное молоко", "condensed milk"]),
         .init("jam", "Варенье", "🍓", .sweets, unit: "г", synonyms: ["варенье", "джем", "повидло", "jam"]),
@@ -168,6 +168,10 @@ enum FoodDictionary {
         .init("herring", "Сельдь", "🐟", .fish, unit: "г", parent: "fish", synonyms: ["сельдь", "селедка", "сельдь слабосоленая", "филе сельди", "herring"]),
         .init("pineapple", "Ананасы", "🍍", .fruits, unit: "г", synonyms: ["ананас", "ананасы", "консервированные ананасы", "pineapple"]),
         .init("cookies", "Печенье", "🍪", .sweets, unit: "г", synonyms: ["печенье", "сахарное печенье", "песочное печенье", "cookies", "biscuits"]),
+        .init("kvass", "Квас", "🍺", .drinks, unit: "л", synonyms: ["квас", "окрошечный квас", "kvass"]),
+        .init("pearl_barley", "Перловка", "🌾", .grains, unit: "г", synonyms: ["перловка", "перловая крупа", "pearl barley", "barley"]),
+        .init("wine", "Вино", "🍷", .drinks, unit: "мл", synonyms: ["вино", "белое вино", "красное вино", "сухое вино", "wine", "white wine"]),
+        .init("curry_powder", "Карри", "🧂", .spices, synonyms: ["карри", "приправа карри", "порошок карри", "curry", "curry powder"]),
         .init("broth", "Бульон", "🍲", .other, unit: "мл", synonyms: ["бульон", "куриный бульон", "овощной бульон", "broth", "stock"]),
     ]
 

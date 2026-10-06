@@ -13662,5 +13662,7691 @@
    "Вылейте тесто на разогретую сковороду, выложите начинку, посыпьте сыром и жарьте под крышкой 10–15 минут на слабом огне."
   ],
   "emoji": "🍕"
+ },
+ {
+  "id": "fr-syrnyi-krem-sup-kurica",
+  "title": "Сырный крем-суп с курицей",
+  "description": "Пюрированный суп из овощей и курицы со сливками и сыром.",
+  "cookingTimeMinutes": 50,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Куриное филе",
+    "normalizedName": "chicken_breast",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 1.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 80.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сливки",
+    "normalizedName": "cream",
+    "quantity": 100.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 4.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 300.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Отварите мелко нарезанный картофель в подсоленной воде.",
+   "Обжарьте лук до полупрозрачности, затем морковь и чеснок до золотистости и переложите к картофелю.",
+   "Отдельно обжарьте кусочки курицы 7–10 минут и добавьте в кастрюлю.",
+   "Вмешайте тёртый сыр и сливки, посолите, поперчите, прогрейте пару минут и пюрируйте блендером."
+  ],
+  "emoji": "🧀"
+ },
+ {
+  "id": "fr-solyanka-kurica-kartoshka",
+  "title": "Солянка с курицей, колбасой и картошкой",
+  "description": "Домашняя солянка на курином бульоне с двумя видами колбасы.",
+  "cookingTimeMinutes": 80,
+  "difficulty": "medium",
+  "servings": 4,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Куриные бёдра",
+    "normalizedName": "chicken_thigh",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Варёная и сырокопчёная колбаса",
+    "normalizedName": "sausage",
+    "quantity": 250.0,
+    "unit": "г"
+   },
+   {
+    "name": "Солёные огурцы",
+    "normalizedName": "pickles",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Томатная паста",
+    "normalizedName": "tomato_paste",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Оливки",
+    "normalizedName": "olives",
+    "quantity": 75.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лимон",
+    "normalizedName": "lemon",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 1.0,
+    "unit": "л"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 0.5,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Сварите курицу 30 минут под крышкой после закипания, снимите мясо с костей и нарежьте.",
+   "Положите в бульон курицу и брусочки картофеля и варите 15–20 минут.",
+   "Обжарьте лук с морковью 5–6 минут, добавьте соломку огурцов и томатную пасту на 2 минуты, затем колбасу и потушите 10 минут.",
+   "Переложите зажарку в суп и варите 5 минут после закипания.",
+   "Добавьте дольки лимона, маслины и перец и дайте настояться 10 минут."
+  ],
+  "emoji": "🍲"
+ },
+ {
+  "id": "fr-rassolnik",
+  "title": "Рассольник с перловкой",
+  "description": "Наваристый суп на говяжьем бульоне с перловкой и солёными огурцами.",
+  "cookingTimeMinutes": 190,
+  "difficulty": "medium",
+  "servings": 10,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Говядина",
+    "normalizedName": "beef",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Перловка",
+    "normalizedName": "pearl_barley",
+    "quantity": 120.0,
+    "unit": "г"
+   },
+   {
+    "name": "Солёные огурцы",
+    "normalizedName": "pickles",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 130.0,
+    "unit": "г"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 120.0,
+    "unit": "г"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 4.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Лавровый лист",
+    "normalizedName": "bay_leaf",
+    "quantity": 2.0,
+    "unit": "шт",
+    "optional": true
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 3.0,
+    "unit": "л"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 2.0,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Промойте и замочите перловку; сварите говядину в 3 л воды 80–90 минут, достаньте и нарежьте.",
+   "Обжарьте лук, затем добавьте тёртую морковь на 5 минут и огурцы.",
+   "Варите перловку в бульоне 30 минут, затем добавьте мясо и картофель на 5 минут.",
+   "Добавьте зажарку и лавровый лист и варите ещё 20 минут."
+  ],
+  "emoji": "🥒"
+ },
+ {
+  "id": "fr-sup-babushkin-klecki",
+  "title": "Куриный суп с клёцками",
+  "description": "Домашний суп с мягкими яичными клёцками.",
+  "cookingTimeMinutes": 80,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Куриный окорочок",
+    "normalizedName": "chicken_thigh",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 0.333,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 3.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Лавровый лист",
+    "normalizedName": "bay_leaf",
+    "quantity": 2.0,
+    "unit": "шт",
+    "optional": true
+   },
+   {
+    "name": "Петрушка",
+    "normalizedName": "parsley",
+    "quantity": 2.0,
+    "unit": "веточки",
+    "optional": true
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 1.4,
+    "unit": "л"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Сварите курицу с лавровым листом и перцем горошком, снимите мясо и процедите бульон.",
+   "Варите в бульоне картофель брусочками около 10 минут.",
+   "Обжарьте лук 2–3 минуты, затем с морковью ещё 3–4 минуты и добавьте в суп вместе с курицей на 5–6 минут.",
+   "Смешайте яйцо с солью и мукой, опускайте клёцки в суп чайной ложкой.",
+   "Добавьте чеснок, перец и петрушку и снимите с огня, как только клёцки всплывут."
+  ],
+  "emoji": "🍲"
+ },
+ {
+  "id": "fr-ovoshchnoi-sup-goroshek",
+  "title": "Овощной суп с цветной капустой и горошком",
+  "description": "Лёгкий постный суп с рисом и зеленью.",
+  "cookingTimeMinutes": 60,
+  "difficulty": "easy",
+  "servings": 6,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Цветная капуста",
+    "normalizedName": "cauliflower",
+    "quantity": 350.0,
+    "unit": "г"
+   },
+   {
+    "name": "Рис",
+    "normalizedName": "rice",
+    "quantity": 90.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Консервированный горошек",
+    "normalizedName": "peas",
+    "quantity": 250.0,
+    "unit": "г"
+   },
+   {
+    "name": "Укроп и петрушка",
+    "normalizedName": "herbs",
+    "optional": true
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 2.0,
+    "unit": "л"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Варите кубики картофеля, моркови и лука в кипящей воде 15 минут.",
+   "Добавьте мелкие соцветия капусты, горошек и промытый рис.",
+   "Варите 20–25 минут до готовности риса.",
+   "Добавьте зелень, соль и перец и дайте постоять под крышкой 5–10 минут."
+  ],
+  "emoji": "🥦"
+ },
+ {
+  "id": "fr-okroshka-kvas",
+  "title": "Окрошка на квасе",
+  "description": "Холодный летний суп с колбасой, овощами и яйцом.",
+  "cookingTimeMinutes": 50,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Квас",
+    "normalizedName": "kvass",
+    "quantity": 1.0,
+    "unit": "л"
+   },
+   {
+    "name": "Огурцы",
+    "normalizedName": "cucumber",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Варёная колбаса",
+    "normalizedName": "sausage",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 5.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Редис",
+    "normalizedName": "radish",
+    "quantity": 5.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Зелёный лук",
+    "normalizedName": "green_onion",
+    "quantity": 20.0,
+    "unit": "г"
+   },
+   {
+    "name": "Петрушка",
+    "normalizedName": "parsley",
+    "quantity": 20.0,
+    "unit": "г",
+    "optional": true
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 3.0,
+    "unit": "г"
+   }
+  ],
+  "steps": [
+   "Отварите и остудите яйца и картофель, очистите огурцы.",
+   "Нарежьте кубиками яйца, картофель, огурцы, редис и колбасу, порубите зелень.",
+   "Залейте квасом, посолите, поперчите и перемешайте. Подавайте со сметаной."
+  ],
+  "emoji": "🥒"
+ },
+ {
+  "id": "fr-kabachkovyi-krem-sup",
+  "title": "Кабачковый крем-суп",
+  "description": "Бархатный суп-пюре из кабачков со сливками.",
+  "cookingTimeMinutes": 40,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Кабачок",
+    "normalizedName": "zucchini",
+    "quantity": 600.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 1.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Бульон",
+    "normalizedName": "broth",
+    "quantity": 1.0,
+    "unit": "л"
+   },
+   {
+    "name": "Сливки",
+    "normalizedName": "cream",
+    "quantity": 210.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Сухарики",
+    "normalizedName": "bread",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Обжарьте лук с чесноком около 3 минут, добавьте картофель и готовьте ещё 5–7 минут.",
+   "Добавьте кубики кабачков и жарьте 5 минут.",
+   "Влейте бульон и варите на слабом огне 20 минут.",
+   "Пюрируйте, посолите, поперчите и влейте сливки."
+  ],
+  "emoji": "🥒"
+ },
+ {
+  "id": "fr-tomatnyi-krem-sup",
+  "title": "Томатный крем-суп на бульоне",
+  "description": "Быстрый суп-пюре из свежих помидоров с сельдереем и базиликом.",
+  "cookingTimeMinutes": 20,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Сельдерей",
+    "normalizedName": "celery",
+    "quantity": 1.0,
+    "unit": "стебель"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 1.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Куриный бульон",
+    "normalizedName": "broth",
+    "quantity": 800.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Базилик",
+    "normalizedName": "herbs",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Снимите с помидоров кожицу, нарежьте мякоть и потушите на масле около 5 минут.",
+   "Обжарьте лук, чеснок, морковь и сельдерей и переложите к томатам.",
+   "Залейте бульоном и варите до мягкости овощей.",
+   "Пюрируйте, приправьте; если суп кисловат — добавьте щепотку сахара."
+  ],
+  "emoji": "🍅"
+ },
+ {
+  "id": "fr-risovyi-sup-kurica",
+  "title": "Рисовый суп с курицей",
+  "description": "Лёгкий суп на курином бульоне с рисом и картофелем.",
+  "cookingTimeMinutes": 50,
+  "difficulty": "easy",
+  "servings": 3,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Куриное бедро",
+    "normalizedName": "chicken_thigh",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Рис",
+    "normalizedName": "rice",
+    "quantity": 60.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 1.2,
+    "unit": "л"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 0.333,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Сварите бедро до готовности, снимите мясо и процедите бульон.",
+   "Опустите в кипящий бульон кубики картофеля и рис и варите около 10 минут.",
+   "Обжарьте лук 2–3 минуты, добавьте морковь, затем переложите в суп вместе с курицей.",
+   "Посолите, поперчите и варите ещё 7–8 минут."
+  ],
+  "emoji": "🍚"
+ },
+ {
+  "id": "fr-kurinyi-sup-pshono",
+  "title": "Куриный суп с пшеном",
+  "description": "Сытный суп с пшеном, картофелем и сладким перцем.",
+  "cookingTimeMinutes": 60,
+  "difficulty": "easy",
+  "servings": 6,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Курица",
+    "normalizedName": "chicken",
+    "quantity": 250.0,
+    "unit": "г"
+   },
+   {
+    "name": "Пшено",
+    "normalizedName": "millet",
+    "quantity": 25.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Болгарский перец",
+    "normalizedName": "bell_pepper",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Лавровый лист",
+    "normalizedName": "bay_leaf",
+    "quantity": 1.0,
+    "unit": "шт",
+    "optional": true
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 1.5,
+    "unit": "л"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Сварите курицу на слабом огне, сняв пену, со специями.",
+   "Добавьте брусочки картофеля и пшено, посолите и варите 15 минут.",
+   "Обжарьте лук и морковь до мягкости, добавьте перец на 1–2 минуты.",
+   "Нарежьте курицу, верните её в суп вместе с зажаркой и варите 5–6 минут, затем дайте настояться."
+  ],
+  "emoji": "🍲"
+ },
+ {
+  "id": "fr-uha-po-finski",
+  "title": "Уха по-фински со сливками",
+  "description": "Нежный сливочный суп с сёмгой и картофелем.",
+  "cookingTimeMinutes": 30,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Филе сёмги",
+    "normalizedName": "salmon",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 1.5,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Сливки",
+    "normalizedName": "cream",
+    "quantity": 200.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Укроп",
+    "normalizedName": "dill",
+    "quantity": 0.5,
+    "unit": "пучка",
+    "optional": true
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 2.0,
+    "unit": "л"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Варите кубики картофеля в воде; когда он почти готов, добавьте кусочки рыбы без кожи и костей.",
+   "Обжарьте на сливочном масле лук полукольцами, затем тёртую морковь и переложите в суп.",
+   "Влейте сливки, доведите до кипения, посолите и снимите с огня. Добавьте укроп."
+  ],
+  "emoji": "🐟"
+ },
+ {
+  "id": "fr-tomatnyi-sup-fasol-kurica",
+  "title": "Томатный суп с фасолью и курицей",
+  "description": "Густой суп с белой фасолью в томатном соусе.",
+  "cookingTimeMinutes": 60,
+  "difficulty": "easy",
+  "servings": 6,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Куриные голени",
+    "normalizedName": "chicken",
+    "quantity": 720.0,
+    "unit": "г"
+   },
+   {
+    "name": "Фасоль в томатном соусе",
+    "normalizedName": "beans",
+    "quantity": 500.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Болгарский перец",
+    "normalizedName": "bell_pepper",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Лавровый лист",
+    "normalizedName": "bay_leaf",
+    "quantity": 2.0,
+    "unit": "шт",
+    "optional": true
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 2.0,
+    "unit": "л"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Сварите голени, сняв пену; снимите мясо с костей и процедите бульон.",
+   "Опустите в кипящий бульон брусочки картофеля.",
+   "Обжарьте лук 2–3 минуты, затем морковь и перец, переложите в суп и варите 5–7 минут.",
+   "Добавьте курицу и фасоль с соусом, посолите, поперчите и дайте настояться 10 минут."
+  ],
+  "emoji": "🍅"
+ },
+ {
+  "id": "fr-shurpa",
+  "title": "Шурпа из говядины",
+  "description": "Наваристый восточный суп с крупно нарезанными овощами и кинзой.",
+  "cookingTimeMinutes": 180,
+  "difficulty": "medium",
+  "servings": 4,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Говядина",
+    "normalizedName": "beef",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Болгарский перец",
+    "normalizedName": "bell_pepper",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Кинза",
+    "normalizedName": "herbs",
+    "optional": true
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Варите говядину в подсоленной воде 1,5–2 часа на слабом огне, затем нарежьте кубиками.",
+   "Положите в бульон морковь кружками, крупные кубики картофеля и лук и варите 10 минут.",
+   "Добавьте перец и дольки помидора на 7–10 минут, затем мясо ещё на 5 минут.",
+   "Добавьте кинзу, чеснок и перец и дайте постоять под крышкой 10–15 минут."
+  ],
+  "emoji": "🍲"
+ },
+ {
+  "id": "fr-ukrainskii-borshch",
+  "title": "Украинский борщ",
+  "description": "Борщ на говяжьем бульоне с обжаренной свёклой, уксусом и чесноком.",
+  "cookingTimeMinutes": 120,
+  "difficulty": "medium",
+  "servings": 8,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Говядина",
+    "normalizedName": "beef",
+    "quantity": 500.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 350.0,
+    "unit": "г"
+   },
+   {
+    "name": "Свёкла",
+    "normalizedName": "beetroot",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Капуста",
+    "normalizedName": "cabbage",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 3.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Уксус",
+    "normalizedName": "vinegar",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Сахар",
+    "normalizedName": "sugar",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "unit": "для жарки"
+   },
+   {
+    "name": "Лавровый лист",
+    "normalizedName": "bay_leaf",
+    "quantity": 3.0,
+    "unit": "шт",
+    "optional": true
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "unit": "для подачи",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Сварите говядину с лавровым листом, перцем и солью за 1–1,5 часа, нарежьте мясо.",
+   "Обжарьте морковь и лук 7 минут, добавьте картофель и капусту и тушите под крышкой 10 минут.",
+   "Отдельно обжарьте соломку свёклы 10 минут, добавьте сахар и уксус, затем остальные овощи и часть мяса и тушите 7 минут.",
+   "Переложите всё в бульон, добавьте чеснок и варите 15–20 минут до мягкости овощей."
+  ],
+  "emoji": "🥣"
+ },
+ {
+  "id": "fr-frikase-kurica",
+  "title": "Фрикасе из курицы",
+  "description": "Курица в нежном сливочном соусе с белым вином.",
+  "cookingTimeMinutes": 30,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Куриная грудка",
+    "normalizedName": "chicken_breast",
+    "quantity": 750.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 1.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Сливки",
+    "normalizedName": "cream",
+    "quantity": 200.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Белое сухое вино",
+    "normalizedName": "wine",
+    "quantity": 100.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Обжарьте кусочки филе на масле на сильном огне 3–5 минут.",
+   "Добавьте лук полукольцами и чеснок.",
+   "Влейте вино, через минуту — сливки, через 5 минут всыпьте муку и держите на огне, помешивая, до загустения. Подавайте с рисом."
+  ],
+  "emoji": "🍗"
+ },
+ {
+  "id": "fr-frikadelki-kartoshka-duhovka",
+  "title": "Фрикадельки с картошкой в духовке",
+  "description": "Ужин без гарнира: фрикадельки запекаются прямо на картофеле в сметане.",
+  "cookingTimeMinutes": 75,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Фарш",
+    "normalizedName": "minced_meat",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 1.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 3.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 150.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Смешайте фарш с солью, перцем, кориандром, мелким луком, чесноком и яйцом и хорошо отбейте.",
+   "Выложите брусочки картофеля в форму и полейте сметаной.",
+   "Разложите сверху небольшие фрикадельки и налейте воду до уровня картофеля.",
+   "Запекайте под фольгой 40–60 минут при 190 °C, затем без фольги ещё 10–15 минут."
+  ],
+  "emoji": "🥔"
+ },
+ {
+  "id": "fr-shnicel-kurica-sous",
+  "title": "Куриные шницели со сливочно-сырным соусом",
+  "description": "Отбитое филе в хрустящей панировке и соус из сливок с паприкой и сыром.",
+  "cookingTimeMinutes": 25,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Куриное филе",
+    "normalizedName": "chicken_breast",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Панировочные сухари",
+    "normalizedName": "bread",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Майонез",
+    "normalizedName": "mayonnaise",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Сливки",
+    "normalizedName": "cream",
+    "quantity": 210.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 40.0,
+    "unit": "г"
+   },
+   {
+    "name": "Паприка",
+    "normalizedName": "paprika",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 100.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 5.0,
+    "unit": "г"
+   }
+  ],
+  "steps": [
+   "Разрежьте филе пополам и отбейте до толщины 6–7 мм, посолите и поперчите.",
+   "Обмакните куски в майонез, затем в сухари и обжарьте по 3–4 минуты с каждой стороны.",
+   "В той же сковороде смешайте кипяток, сливки, паприку, соль, перец и тёртый сыр и потомите соус 2–3 минуты."
+  ],
+  "emoji": "🍗"
+ },
+ {
+  "id": "fr-pyure-s-farshem-zapekanka",
+  "title": "Запеканка из пюре с фаршем",
+  "description": "Слой мясного фарша в томате между двумя слоями картофельного пюре.",
+  "cookingTimeMinutes": 60,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Свиной и говяжий фарш",
+    "normalizedName": "minced_meat",
+    "quantity": 600.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 5.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Томатная паста",
+    "normalizedName": "tomato_paste",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Отварите крупно нарезанный картофель, оставьте стакан отвара.",
+   "Обжарьте мелко нарезанный лук, добавьте фарш и жарьте до смены цвета, посолите, поперчите и вмешайте томатную пасту.",
+   "Разомните картофель, подливая отвар, и вмешайте яйца.",
+   "Выложите в форму половину пюре, затем фарш и оставшееся пюре; запекайте 20 минут при 200 °C."
+  ],
+  "emoji": "🥔"
+ },
+ {
+  "id": "fr-lepeshki-kabachki-syr",
+  "title": "Лепёшки из кабачков с сыром",
+  "description": "Быстрые оладьи из кабачка с сыром и чесноком.",
+  "cookingTimeMinutes": 20,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "lunch",
+  "ingredients": [
+   {
+    "name": "Кабачок",
+    "normalizedName": "zucchini",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 1.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Сливочный сыр",
+    "normalizedName": "cream_cheese",
+    "unit": "для подачи",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 0.5,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Натрите кабачок, посолите и через 3 минуты отожмите сок.",
+   "Смешайте с тёртым сыром, чесноком, мукой, яйцом и перцем.",
+   "Жарьте лепёшки по 2–3 ст. л. теста по 3–4 минуты с каждой стороны на среднем огне."
+  ],
+  "emoji": "🥒"
+ },
+ {
+  "id": "fr-lapsha-vok-kurica",
+  "title": "Лапша вок с курицей и овощами",
+  "description": "Курица с овощами в соевом соусе с имбирём и лапшой.",
+  "cookingTimeMinutes": 45,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Лапша",
+    "normalizedName": "pasta",
+    "quantity": 150.0,
+    "unit": "г"
+   },
+   {
+    "name": "Куриное филе",
+    "normalizedName": "chicken_breast",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Болгарский перец",
+    "normalizedName": "bell_pepper",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 1.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Зелёный лук",
+    "normalizedName": "green_onion",
+    "quantity": 2.0,
+    "unit": "пера",
+    "optional": true
+   },
+   {
+    "name": "Соевый соус",
+    "normalizedName": "soy_sauce",
+    "quantity": 5.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Молотый имбирь",
+    "normalizedName": "ginger",
+    "quantity": 0.5,
+    "unit": "ч. л.",
+    "optional": true
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 3.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 100.0,
+    "unit": "мл"
+   }
+  ],
+  "steps": [
+   "Нарежьте морковь и перец соломкой, мясо кубиками, порубите лук и чеснок.",
+   "На сильном огне обжарьте лук с чесноком, затем морковь и перец, добавьте зелёный лук и курицу.",
+   "Влейте соевый соус и воду, добавьте имбирь и тушите под крышкой до мягкости овощей.",
+   "Отварите лапшу и смешайте с содержимым сковороды."
+  ],
+  "emoji": "🍜"
+ },
+ {
+  "id": "fr-kurica-ris-slivochnyi",
+  "title": "Курица с рисом в сливочном соусе",
+  "description": "Рис, томлённый в бульоне с маскарпоне и пармезаном, и курица.",
+  "cookingTimeMinutes": 55,
+  "difficulty": "medium",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Куриное филе",
+    "normalizedName": "chicken_breast",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Басмати",
+    "normalizedName": "rice",
+    "quantity": 180.0,
+    "unit": "г"
+   },
+   {
+    "name": "Маскарпоне",
+    "normalizedName": "cream_cheese",
+    "quantity": 250.0,
+    "unit": "г"
+   },
+   {
+    "name": "Пармезан",
+    "normalizedName": "parmesan",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Куриный бульон",
+    "normalizedName": "broth",
+    "quantity": 600.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 4.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 20.0,
+    "unit": "г"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Сушёные травы",
+    "normalizedName": "dried_herbs",
+    "quantity": 1.0,
+    "unit": "ст. л.",
+    "optional": true
+   },
+   {
+    "name": "Паприка",
+    "normalizedName": "paprika",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 2.0,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Натрите филе половиной соли, перцем и паприкой и обжарьте на смеси масел по 6–7 минут с каждой стороны; переложите под фольгу.",
+   "В той же сковороде 2 минуты обжарьте лук и чеснок с травами и остатком соли.",
+   "Добавьте промытый рис, через минуту влейте бульон и тушите 8 минут после закипания.",
+   "Вмешайте маскарпоне и тёртый пармезан, выложите курицу и томите под крышкой 5 минут."
+  ],
+  "emoji": "🍚"
+ },
+ {
+  "id": "fr-ratatui-kartoshka",
+  "title": "Рататуй с картошкой",
+  "description": "Запечённые кружки овощей на томатном соусе с чесночно-петрушечным маслом.",
+  "cookingTimeMinutes": 100,
+  "difficulty": "medium",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Баклажан",
+    "normalizedName": "eggplant",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Кабачок",
+    "normalizedName": "zucchini",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 4.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Болгарский перец",
+    "normalizedName": "bell_pepper",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Петрушка",
+    "normalizedName": "parsley",
+    "quantity": 1.5,
+    "unit": "пучка"
+   },
+   {
+    "name": "Острый перец",
+    "normalizedName": "chili_pepper",
+    "quantity": 15.0,
+    "unit": "г",
+    "optional": true
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 5.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Для соуса обжарьте кубики лука и половины перца, добавьте пюрированные 3 помидора, соль, перец и рубленую петрушку и потушите.",
+   "Посолите кружки баклажана на 10 минут; нарежьте такими же кружками кабачок, картофель, помидор и перец.",
+   "Пробейте чеснок, пучок петрушки и чили с 3 ст. л. масла.",
+   "Влейте часть соуса в форму, выложите овощи, чередуя, полейте оставшимся соусом и ароматным маслом.",
+   "Запекайте 1 час при 180 °C."
+  ],
+  "emoji": "🍆"
+ },
+ {
+  "id": "fr-myaso-po-francuzski-pomidory",
+  "title": "Мясо по-французски с помидорами",
+  "description": "Отбитая свинина под помидорами и сырной шапкой.",
+  "cookingTimeMinutes": 60,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Свинина",
+    "normalizedName": "pork",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 60.0,
+    "unit": "г"
+   },
+   {
+    "name": "Майонез",
+    "normalizedName": "mayonnaise",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Отбейте куски свинины с двух сторон, посолите и поперчите.",
+   "Выложите в форму, смажьте майонезом, сверху кружки помидоров и тёртый сыр.",
+   "Запекайте 40–50 минут при 180 °C."
+  ],
+  "emoji": "🥩"
+ },
+ {
+  "id": "fr-zapekanka-kartofel-kurica",
+  "title": "Картофельная запеканка с куриной грудкой",
+  "description": "Слои тонкого картофеля, курицы и овощей со сметаной и сыром.",
+  "cookingTimeMinutes": 80,
+  "difficulty": "medium",
+  "servings": 8,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 1.2,
+    "unit": "кг"
+   },
+   {
+    "name": "Куриная грудка",
+    "normalizedName": "chicken_breast",
+    "quantity": 500.0,
+    "unit": "г"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 4.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Майонез",
+    "normalizedName": "mayonnaise",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 30.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Нарежьте картофель, морковь и грудку очень тонко, лук — кольцами, помидоры — кружками.",
+   "Выкладывайте в смазанную форму слоями картофель, курицу и морковь, промазывая сметаной с чесноком и посыпая сыром, помидорами и луком.",
+   "Закончите слоем картофеля со сметаной, сыром и майонезом.",
+   "Запекайте 45 минут при 180 °C."
+  ],
+  "emoji": "🥔"
+ },
+ {
+  "id": "fr-pasta-krevetki-slivki",
+  "title": "Паста с креветками в сливочном соусе",
+  "description": "Спагетти с креветками, чесноком, сливками и сыром.",
+  "cookingTimeMinutes": 30,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Спагетти",
+    "normalizedName": "pasta",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Креветки",
+    "normalizedName": "shrimp",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 3.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сливки",
+    "normalizedName": "cream",
+    "quantity": 80.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Петрушка",
+    "normalizedName": "parsley",
+    "quantity": 70.0,
+    "unit": "г"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Отварите пасту по инструкции.",
+   "Обжарьте пластинки чеснока, добавьте креветки и обжарьте с двух сторон.",
+   "Влейте сливки, затем добавьте спагетти, петрушку и тёртый сыр; при необходимости разбавьте отваром."
+  ],
+  "emoji": "🦐"
+ },
+ {
+  "id": "fr-pasta-boloneze",
+  "title": "Паста болоньезе",
+  "description": "Спагетти с мясным соусом из свежих томатов и базилика.",
+  "cookingTimeMinutes": 40,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Спагетти",
+    "normalizedName": "pasta",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Фарш",
+    "normalizedName": "minced_meat",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 1.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Базилик и петрушка",
+    "normalizedName": "herbs",
+    "quantity": 70.0,
+    "unit": "г"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Снимите кожицу с помидоров (надрез крестом, минута в кипятке) и измельчите мякоть.",
+   "Обжарьте лук с половиной чеснока, добавьте фарш на 5 минут, посолите, поперчите и влейте томаты; тушите под крышкой.",
+   "Выключите огонь, добавьте остальной чеснок и рубленую зелень.",
+   "Отварите спагетти 8–10 минут и подавайте с соусом."
+  ],
+  "emoji": "🍝"
+ },
+ {
+  "id": "fr-spagetti-karbonara",
+  "title": "Спагетти карбонара с желтками",
+  "description": "Классическая карбонара без сливок: бекон, желтки и пармезан.",
+  "cookingTimeMinutes": 20,
+  "difficulty": "medium",
+  "servings": 2,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Спагетти",
+    "normalizedName": "pasta",
+    "quantity": 150.0,
+    "unit": "г"
+   },
+   {
+    "name": "Бекон",
+    "normalizedName": "bacon",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Желтки",
+    "normalizedName": "egg",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Пармезан",
+    "normalizedName": "parmesan",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Отварите спагетти, сохранив стакан воды от варки.",
+   "Обжарьте бекон на сухой сковороде до хруста.",
+   "Смешайте половину тёртого пармезана с желтками, мускатным орехом и перцем.",
+   "На минимальном огне добавьте смесь к бекону с 2–3 ложками отвара, затем спагетти и прогрейте 2 минуты, помешивая. Посыпьте оставшимся сыром."
+  ],
+  "emoji": "🍝"
+ },
+ {
+  "id": "fr-mintai-ovoshchi-duhovka",
+  "title": "Минтай с овощами в духовке",
+  "description": "Филе под слоем овощей, сыра и сметанно-сливочного соуса.",
+  "cookingTimeMinutes": 60,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Филе минтая",
+    "normalizedName": "fish",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Болгарский перец",
+    "normalizedName": "bell_pepper",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сливки",
+    "normalizedName": "cream",
+    "quantity": 100.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Выложите посоленное и поперчённое филе в смазанную форму.",
+   "Сверху распределите тонкие полукольца лука, тёртую морковь и соломку перца, затем кружки помидора; посолите и посыпьте сыром.",
+   "Полейте смесью сметаны со сливками и запекайте 40 минут при 180 °C."
+  ],
+  "emoji": "🐟"
+ },
+ {
+  "id": "fr-krasnaya-ryba-slivochnyi-sous",
+  "title": "Красная рыба в сливочно-сырном соусе",
+  "description": "Запечённое филе с укропом и соусом из сливок, чеснока и плавленого сыра.",
+  "cookingTimeMinutes": 35,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Филе красной рыбы",
+    "normalizedName": "salmon",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сливки",
+    "normalizedName": "cream",
+    "quantity": 200.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Плавленый сыр",
+    "normalizedName": "processed_cheese",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Укроп",
+    "normalizedName": "dill",
+    "quantity": 3.0,
+    "unit": "веточки",
+    "optional": true
+   },
+   {
+    "name": "Тимьян",
+    "normalizedName": "dried_herbs",
+    "quantity": 2.0,
+    "unit": "веточки",
+    "optional": true
+   },
+   {
+    "name": "Оливковое масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Нарежьте филе крупными кусками, посолите, поперчите, добавьте тимьян и укроп и запекайте 20 минут при 180 °C.",
+   "Обжарьте рубленый чеснок в масле около минуты, влейте сливки и растворите в них тёртый плавленый сыр.",
+   "Полейте рыбу соусом и посыпьте укропом."
+  ],
+  "emoji": "🐟"
+ },
+ {
+  "id": "fr-grechka-s-tuncom",
+  "title": "Гречка с тунцом",
+  "description": "Сытный обед из гречки и консервированного тунца с жареным луком.",
+  "cookingTimeMinutes": 30,
+  "difficulty": "easy",
+  "servings": 3,
+  "mealType": "lunch",
+  "ingredients": [
+   {
+    "name": "Гречка",
+    "normalizedName": "buckwheat",
+    "quantity": 165.0,
+    "unit": "г"
+   },
+   {
+    "name": "Тунец",
+    "normalizedName": "tuna",
+    "quantity": 150.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Петрушка",
+    "normalizedName": "parsley",
+    "quantity": 2.0,
+    "unit": "веточки",
+    "optional": true
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 400.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 2.0,
+    "unit": "г"
+   }
+  ],
+  "steps": [
+   "Сварите гречку в подсоленной воде под крышкой до впитывания воды.",
+   "Обжарьте лук кубиками 3–4 минуты, добавьте размятый тунец и прогрейте 1–2 минуты.",
+   "Смешайте с гречкой, дайте постоять под крышкой 2–3 минуты и посыпьте петрушкой."
+  ],
+  "emoji": "🐟"
+ },
+ {
+  "id": "fr-ryba-luk-morkov",
+  "title": "Рыба, запечённая с луком и морковью",
+  "description": "Минтай под овощами в сметанно-горчичном соусе с сыром.",
+  "cookingTimeMinutes": 70,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Филе минтая",
+    "normalizedName": "fish",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 80.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 150.0,
+    "unit": "г"
+   },
+   {
+    "name": "Горчица",
+    "normalizedName": "mustard",
+    "unit": "по вкусу",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Смешайте сметану с горчицей, солью и перцем.",
+   "Выложите в форму филе, лук перышками, половину соуса, тёртую морковь и оставшийся соус.",
+   "Запекайте под фольгой, затем снимите её, посыпьте сыром и запекайте ещё 15 минут."
+  ],
+  "emoji": "🐟"
+ },
+ {
+  "id": "fr-mintai-s-kartoshkoi",
+  "title": "Минтай с картошкой в духовке",
+  "description": "Рыба между двумя слоями тонкого картофеля.",
+  "cookingTimeMinutes": 80,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Филе минтая",
+    "normalizedName": "fish",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Майонез",
+    "normalizedName": "mayonnaise",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "2 щепотки"
+   }
+  ],
+  "steps": [
+   "Перемешайте кусочки филе с ложкой майонеза, приправой, солью и перцем и оставьте на 20 минут.",
+   "Выложите половину кружков картофеля в смазанную форму, сверху рыбу, затем оставшийся картофель.",
+   "Посолите, поперчите, смажьте майонезом и запекайте при 180 °C до мягкости картофеля."
+  ],
+  "emoji": "🐟"
+ },
+ {
+  "id": "fr-zapechennaya-forel",
+  "title": "Запечённая форель с чесночным маслом",
+  "description": "Стейки форели с тимьяном и чесноком за 25 минут.",
+  "cookingTimeMinutes": 25,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Стейки форели",
+    "normalizedName": "salmon",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Тимьян",
+    "normalizedName": "dried_herbs",
+    "quantity": 2.0,
+    "unit": "веточки",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 3.0,
+    "unit": "г"
+   }
+  ],
+  "steps": [
+   "Разогрейте духовку до 190 °C.",
+   "Растопите масло с рубленым чесноком и тимьяном.",
+   "Выложите стейки на фольгу, посолите, поперчите, полейте маслом и запекайте 13 минут."
+  ],
+  "emoji": "🐟"
+ },
+ {
+  "id": "fr-mintai-chesnochnyi-sous",
+  "title": "Минтай в чесночно-сливочном соусе",
+  "description": "Рыба, тушённая в молочном соусе с чесноком и розмарином.",
+  "cookingTimeMinutes": 20,
+  "difficulty": "easy",
+  "servings": 3,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Филе минтая",
+    "normalizedName": "fish",
+    "quantity": 600.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 90.0,
+    "unit": "г"
+   },
+   {
+    "name": "Молоко",
+    "normalizedName": "milk",
+    "quantity": 400.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 3.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Розмарин",
+    "normalizedName": "dried_herbs",
+    "quantity": 1.0,
+    "unit": "ч. л.",
+    "optional": true
+   },
+   {
+    "name": "Лавровый лист",
+    "normalizedName": "bay_leaf",
+    "quantity": 1.0,
+    "unit": "шт",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Растопите масло, вмешайте муку и тонкой струйкой влейте тёплое молоко; уваривайте около 3 минут до загустения.",
+   "Добавьте ломтики чеснока, лавровый лист, соль, перец и розмарин.",
+   "Положите кусочки филе и тушите на слабом огне 8 минут."
+  ],
+  "emoji": "🐟"
+ },
+ {
+  "id": "fr-treska-slivochnaya",
+  "title": "Треска, запечённая в сливочном соусе",
+  "description": "Треска на подушке из жареного лука с горчично-сливочным соусом.",
+  "cookingTimeMinutes": 55,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Филе трески",
+    "normalizedName": "fish",
+    "quantity": 500.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Сливки",
+    "normalizedName": "cream",
+    "quantity": 100.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Горчица",
+    "normalizedName": "mustard",
+    "quantity": 0.5,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Лимонный сок",
+    "normalizedName": "lemon",
+    "quantity": 10.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 0.5,
+    "unit": "ст. л."
+   }
+  ],
+  "steps": [
+   "Обжарьте лук полукольцами 2–4 минуты до золотистого цвета.",
+   "Смешайте сметану, горчицу, лимонный сок, сливки и специи.",
+   "Выложите в форму лук, сверху кусочки посоленной трески, смажьте и залейте соусом.",
+   "Запекайте при 180 °C до готовности рыбы."
+  ],
+  "emoji": "🐟"
+ },
+ {
+  "id": "fr-ryba-po-francuzski",
+  "title": "Рыба по-французски с картошкой",
+  "description": "Филе на картофеле с помидорами и сырной корочкой.",
+  "cookingTimeMinutes": 90,
+  "difficulty": "medium",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Филе пангасиуса",
+    "normalizedName": "fish",
+    "quantity": 700.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 4.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Майонез",
+    "normalizedName": "mayonnaise",
+    "quantity": 3.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Выложите кружки картофеля внахлёст в смазанную форму, посолите и запеките при 200 °C до полуготовности.",
+   "Сверху разложите лук и куски филе, посолите и смажьте майонезом.",
+   "Накройте кружками помидоров, посыпьте сыром и запекайте 20–25 минут."
+  ],
+  "emoji": "🐟"
+ },
+ {
+  "id": "fr-gorbusha-s-syrom",
+  "title": "Горбуша с сыром в духовке",
+  "description": "Сочные стейки горбуши под сырной шапкой.",
+  "cookingTimeMinutes": 50,
+  "difficulty": "easy",
+  "servings": 3,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Горбуша",
+    "normalizedName": "salmon",
+    "quantity": 500.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Майонез",
+    "normalizedName": "mayonnaise",
+    "quantity": 3.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Лимонный сок",
+    "normalizedName": "lemon",
+    "unit": "по вкусу"
+   },
+   {
+    "name": "Зелёный лук",
+    "normalizedName": "green_onion",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Натрите стейки солью и перцем, выложите в форму с пергаментом и сбрызните лимонным соком.",
+   "Смажьте майонезом и посыпьте тёртым сыром.",
+   "Запекайте 40 минут при 180 °C, посыпьте зелёным луком."
+  ],
+  "emoji": "🐟"
+ },
+ {
+  "id": "fr-gorbusha-v-smetane",
+  "title": "Горбуша, запечённая в сметане",
+  "description": "Маринованная в лимоне рыба на сметанной подушке с зеленью и сыром.",
+  "cookingTimeMinutes": 100,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Филе горбуши",
+    "normalizedName": "salmon",
+    "quantity": 240.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 125.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лимон",
+    "normalizedName": "lemon",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 40.0,
+    "unit": "г"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Зелень",
+    "normalizedName": "herbs",
+    "quantity": 15.0,
+    "unit": "г",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Замаринуйте филе в соке половины лимона с маслом на 40 минут в холодильнике.",
+   "Промажьте пергамент в форме половиной сметаны, разложите кусочки сливочного масла и рыбу; посолите, поперчите, добавьте специи.",
+   "Смажьте рыбу оставшейся сметаной с зеленью, посыпьте сыром и запекайте 40 минут при 180 °C."
+  ],
+  "emoji": "🐟"
+ },
+ {
+  "id": "fr-mintai-na-skovorode",
+  "title": "Минтай на сковороде с луком",
+  "description": "Жареная рыба в мучной панировке с травами.",
+  "cookingTimeMinutes": 20,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Филе минтая",
+    "normalizedName": "fish",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 4.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Сушёные травы",
+    "normalizedName": "dried_herbs",
+    "unit": "по вкусу",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Смешайте муку с солью и травами и обваляйте в ней куски филе.",
+   "Выложите рыбу на раскалённое масло, между кусками — полукольца лука.",
+   "Обжарьте до золотистой корочки с двух сторон."
+  ],
+  "emoji": "🐟"
+ },
+ {
+  "id": "fr-kotlety-gorbusha",
+  "title": "Котлеты из горбуши",
+  "description": "Нежные рыбные котлеты в мучной панировке.",
+  "cookingTimeMinutes": 50,
+  "difficulty": "easy",
+  "servings": 5,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Филе горбуши",
+    "normalizedName": "salmon",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Хлеб",
+    "normalizedName": "bread",
+    "quantity": 2.0,
+    "unit": "ломтика"
+   },
+   {
+    "name": "Молоко",
+    "normalizedName": "milk",
+    "quantity": 50.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "unit": "для панировки"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Измельчите рыбу с луком блендером, добавьте размоченный в молоке хлеб, соль и перец.",
+   "Сформируйте котлеты, обваляйте в муке.",
+   "Обжарьте на масле на среднем огне до готовности. Хорошо подходят к рису."
+  ],
+  "emoji": "🐟"
+ },
+ {
+  "id": "fr-grudki-v-smetane-duhovka",
+  "title": "Сочные куриные грудки в сметане",
+  "description": "Грудки, замаринованные в сметане с паприкой и базиликом, а затем запечённые. Большая часть времени — маринование.",
+  "cookingTimeMinutes": 110,
+  "difficulty": "easy",
+  "servings": 5,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Куриная грудка",
+    "normalizedName": "chicken_breast",
+    "quantity": 850.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 160.0,
+    "unit": "г"
+   },
+   {
+    "name": "Паприка",
+    "normalizedName": "paprika",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Сушёный базилик",
+    "normalizedName": "dried_herbs",
+    "quantity": 1.0,
+    "unit": "ч. л.",
+    "optional": true
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Смешайте сметану с базиликом, солью и паприкой и обмажьте грудки; оставьте мариноваться.",
+   "Переложите в смазанную форму и запекайте 40 минут при 180 °C."
+  ],
+  "emoji": "🍗"
+ },
+ {
+  "id": "fr-chahohbili",
+  "title": "Чахохбили из курицы",
+  "description": "Грузинское рагу из курицы с томатами, луком и большим количеством зелени.",
+  "cookingTimeMinutes": 60,
+  "difficulty": "medium",
+  "servings": 2,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Куриные окорочка",
+    "normalizedName": "chicken_thigh",
+    "quantity": 600.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Болгарский перец",
+    "normalizedName": "bell_pepper",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Кинза и петрушка",
+    "normalizedName": "herbs",
+    "quantity": 45.0,
+    "unit": "г"
+   },
+   {
+    "name": "Острый перец",
+    "normalizedName": "chili_pepper",
+    "quantity": 0.5,
+    "unit": "шт",
+    "optional": true
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 0.5,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Разрежьте окорочка по суставам и обжаривайте 20 минут, переворачивая.",
+   "Добавьте тонкие полукольца лука и готовьте 10 минут.",
+   "Снимите с помидоров кожицу, нарежьте и добавьте к курице вместе с перцем, чили и чесноком; тушите под крышкой 20 минут.",
+   "Приправьте солью, добавьте рубленую зелень и дайте постоять под крышкой."
+  ],
+  "emoji": "🍗"
+ },
+ {
+  "id": "fr-grechka-golen-duhovka",
+  "title": "Гречка с куриными голенями в духовке",
+  "description": "Гречка томится в томатной заливке вместе с пряными голенями.",
+  "cookingTimeMinutes": 70,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Гречка",
+    "normalizedName": "buckwheat",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Куриные голени",
+    "normalizedName": "chicken",
+    "quantity": 480.0,
+    "unit": "г"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 1.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Томатная паста",
+    "normalizedName": "tomato_paste",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Паприка",
+    "normalizedName": "paprika",
+    "quantity": 0.5,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Орегано",
+    "normalizedName": "dried_herbs",
+    "quantity": 2.0,
+    "unit": "ч. л.",
+    "optional": true
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 400.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Натрите голени паприкой, куркумой, орегано, солью, перцем и чесноком и оставьте мариноваться.",
+   "Обжарьте тёртую морковь 3 минуты, всыпьте гречку, перемешайте и выложите в форму, сверху — курицу.",
+   "Залейте томатной пастой, разведённой кипятком, плотно накройте фольгой и запекайте 40 минут."
+  ],
+  "emoji": "🍗"
+ },
+ {
+  "id": "fr-karri-kurica",
+  "title": "Курица карри",
+  "description": "Курица, тушённая в пряном томатном соусе с карри.",
+  "cookingTimeMinutes": 60,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Куриное филе",
+    "normalizedName": "chicken_breast",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Болгарский перец",
+    "normalizedName": "bell_pepper",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Томатная паста",
+    "normalizedName": "tomato_paste",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Карри",
+    "normalizedName": "curry_powder",
+    "quantity": 3.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 200.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Обжарьте лук и чеснок 5–7 минут, добавьте томатную пасту и карри и обжаривайте ещё 3–4 минуты.",
+   "Добавьте кубики курицы на 5 минут, влейте воду и тушите на слабом огне 30 минут.",
+   "Добавьте кубики перца и соль и тушите ещё 5 минут. Подавайте с рисом."
+  ],
+  "emoji": "🍛"
+ },
+ {
+  "id": "fr-kurica-pomidory-syr-folga",
+  "title": "Курица с помидорами и сыром в фольге",
+  "description": "Кубики филе с помидорами, сыром и чесноком, запечённые порционно.",
+  "cookingTimeMinutes": 45,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Куриное филе",
+    "normalizedName": "chicken_breast",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 70.0,
+    "unit": "г"
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 160.0,
+    "unit": "г"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Петрушка",
+    "normalizedName": "parsley",
+    "quantity": 8.0,
+    "unit": "г",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 2.0,
+    "unit": "г"
+   }
+  ],
+  "steps": [
+   "Нарежьте филе кубиками 1,5–2 см, помидоры и сыр — чуть мельче, сок от помидоров слейте.",
+   "Смешайте с рубленой петрушкой, чесноком и солью.",
+   "Разложите по четырём «чашечкам» из сложенной фольги, закройте и запекайте 20 минут при 180 °C.",
+   "Раскройте фольгу и подрумяньте ещё 4–5 минут."
+  ],
+  "emoji": "🍗"
+ },
+ {
+  "id": "fr-kurica-slivochno-tomatnyi",
+  "title": "Голени в сливочно-томатном соусе",
+  "description": "Курица, тушённая в томатном соусе со сливками и сметаной.",
+  "cookingTimeMinutes": 50,
+  "difficulty": "easy",
+  "servings": 3,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Куриные голени",
+    "normalizedName": "chicken",
+    "quantity": 600.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Сливки",
+    "normalizedName": "cream",
+    "quantity": 100.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Томатная паста",
+    "normalizedName": "tomato_paste",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Лавровый лист",
+    "normalizedName": "bay_leaf",
+    "quantity": 1.0,
+    "unit": "шт",
+    "optional": true
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "unit": "для жарки"
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 200.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Обжарьте голени 5 минут, переверните, добавьте лук и жарьте ещё 5 минут.",
+   "Добавьте томатную пасту и специи на 2 минуты, влейте кипяток и тушите под крышкой 20 минут.",
+   "Вмешайте сметану, муку и сливки, положите лавровый лист и томите ещё 10 минут."
+  ],
+  "emoji": "🍗"
+ },
+ {
+  "id": "fr-kurica-teriyaki",
+  "title": "Курица терияки",
+  "description": "Кусочки филе в сладко-солёной глазури с имбирём.",
+  "cookingTimeMinutes": 20,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Куриное филе",
+    "normalizedName": "chicken_breast",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Соевый соус",
+    "normalizedName": "soy_sauce",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Мёд",
+    "normalizedName": "honey",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Рисовый уксус",
+    "normalizedName": "vinegar",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Имбирь",
+    "normalizedName": "ginger",
+    "quantity": 20.0,
+    "unit": "г"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Кунжут",
+    "normalizedName": "sesame",
+    "optional": true
+   }
+  ],
+  "steps": [
+   "Смешайте соевый соус, мёд и уксус.",
+   "Обжарьте мелко нарезанные имбирь и чеснок 1 минуту.",
+   "Добавьте кусочки курицы и жарьте на сильном огне около 10 минут.",
+   "Влейте соус и готовьте 5 минут на слабом огне до загустения; посыпьте кунжутом."
+  ],
+  "emoji": "🍯"
+ },
+ {
+  "id": "fr-kurica-tomatno-smetannyi",
+  "title": "Курица в томатно-сметанном соусе",
+  "description": "Филе, тушённое с луком и перцем в густом соусе на бульоне.",
+  "cookingTimeMinutes": 60,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Куриное филе",
+    "normalizedName": "chicken_breast",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Бульон",
+    "normalizedName": "broth",
+    "quantity": 100.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Болгарский перец",
+    "normalizedName": "bell_pepper",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Томатная паста",
+    "normalizedName": "tomato_paste",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Сушёные травы",
+    "normalizedName": "dried_herbs",
+    "quantity": 0.5,
+    "unit": "ст. л.",
+    "optional": true
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "щепотка"
+   }
+  ],
+  "steps": [
+   "Обжарьте крупные куски курицы до румянца и переложите в сотейник.",
+   "Обжарьте лук и перец, добавьте к курице.",
+   "Подрумяньте муку и, помешивая, влейте бульон; перелейте в сотейник.",
+   "После закипания добавьте томатную пасту, сметану, травы, сахар и паприку и тушите на слабом огне до мягкости курицы."
+  ],
+  "emoji": "🍗"
+ },
+ {
+  "id": "fr-plov-s-kuricei",
+  "title": "Плов с курицей",
+  "description": "Рассыпчатый плов с куриным бедром, томатом и куркумой.",
+  "cookingTimeMinutes": 70,
+  "difficulty": "medium",
+  "servings": 4,
+  "mealType": "lunch",
+  "ingredients": [
+   {
+    "name": "Куриные бёдра",
+    "normalizedName": "chicken_thigh",
+    "quantity": 500.0,
+    "unit": "г"
+   },
+   {
+    "name": "Басмати",
+    "normalizedName": "rice",
+    "quantity": 500.0,
+    "unit": "г"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 150.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 75.0,
+    "unit": "г"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 5.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Томатная паста",
+    "normalizedName": "tomato_paste",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 80.0,
+    "unit": "г"
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 1.0,
+    "unit": "л"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 3.0,
+    "unit": "г"
+   }
+  ],
+  "steps": [
+   "Обжарьте полоски курицы на сливочном масле до золотистой корочки, добавьте лук, морковь и чеснок на 5 минут.",
+   "Влейте 200 мл воды с томатной пастой и томите под крышкой 20 минут.",
+   "Добавьте специи, промытый рис и оставшуюся воду и готовьте до впитывания жидкости.",
+   "Перемешайте и дайте постоять под крышкой 10 минут."
+  ],
+  "emoji": "🍚"
+ },
+ {
+  "id": "fr-bedryshki-s-kartoshkoi",
+  "title": "Куриные бёдрышки с картошкой в духовке",
+  "description": "Бёдра и картофель в чесночно-паприковом маринаде, запечённые вместе.",
+  "cookingTimeMinutes": 100,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Куриные бёдра",
+    "normalizedName": "chicken_thigh",
+    "quantity": 700.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Красный лук",
+    "normalizedName": "red_onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Сушёный чеснок",
+    "normalizedName": "garlic",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Паприка",
+    "normalizedName": "paprika",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Нарежьте картофель крупно, лук — дольками; бёдра на кости можно разрезать пополам.",
+   "Перемешайте курицу и картофель со специями и дайте немного промариноваться.",
+   "Выложите в форму с луком, полейте маслом и запекайте при 180 °C до готовности."
+  ],
+  "emoji": "🍗"
+ },
+ {
+  "id": "fr-grudka-v-kefire",
+  "title": "Куриная грудка, тушённая в кефире",
+  "description": "Нежная курица в кефирном маринаде с луком. Большая часть времени — маринование.",
+  "cookingTimeMinutes": 200,
+  "difficulty": "easy",
+  "servings": 3,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Куриная грудка",
+    "normalizedName": "chicken_breast",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Кефир",
+    "normalizedName": "kefir",
+    "quantity": 410.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Зелёный лук",
+    "normalizedName": "green_onion",
+    "quantity": 0.5,
+    "unit": "пучка"
+   },
+   {
+    "name": "Сушёный укроп",
+    "normalizedName": "dried_herbs",
+    "quantity": 1.0,
+    "unit": "ч. л.",
+    "optional": true
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "unit": "для жарки"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Залейте кусочки курицы кефиром с солью, перцем и сушёной зеленью и оставьте мариноваться.",
+   "Обжарьте лук перьями пару минут, добавьте курицу без маринада и жарьте до испарения жидкости.",
+   "Влейте маринад, добавьте зелёный лук и тушите под крышкой на минимальном огне."
+  ],
+  "emoji": "🍗"
+ },
+ {
+  "id": "fr-kurica-mocarella-pomidory",
+  "title": "Куриное филе с моцареллой и помидорами",
+  "description": "Филе-«гармошка», в надрезы которой вложены сыр и помидоры.",
+  "cookingTimeMinutes": 40,
+  "difficulty": "easy",
+  "servings": 1,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Куриное филе",
+    "normalizedName": "chicken_breast",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Моцарелла",
+    "normalizedName": "mozzarella",
+    "quantity": 125.0,
+    "unit": "г"
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Соевый соус",
+    "normalizedName": "soy_sauce",
+    "unit": "по вкусу"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "unit": "по вкусу"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Натрите филе солью и специями и сделайте глубокие поперечные надрезы через каждые 2 см.",
+   "Вставьте в каждый надрез ломтик сыра и помидора.",
+   "Смажьте соевым соусом и маслом и запекайте в форме с пергаментом до готовности курицы."
+  ],
+  "emoji": "🍗"
+ },
+ {
+  "id": "fr-rublenye-kotlety-kurica",
+  "title": "Рубленые куриные котлеты",
+  "description": "Сочные котлеты из мелко нарезанного филе со сметаной.",
+  "cookingTimeMinutes": 25,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Куриное филе",
+    "normalizedName": "chicken_breast",
+    "quantity": 350.0,
+    "unit": "г"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 40.0,
+    "unit": "г"
+   },
+   {
+    "name": "Крахмал",
+    "normalizedName": "starch",
+    "quantity": 10.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Зелень",
+    "normalizedName": "herbs",
+    "quantity": 10.0,
+    "unit": "г",
+    "optional": true
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 30.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Мелко нарубите филе, измельчите лук, чеснок и зелень.",
+   "Смешайте всё с яйцом, крахмалом и сметаной, посолите и сформируйте котлеты.",
+   "Обжаривайте на среднем огне по 2–3 минуты с каждой стороны."
+  ],
+  "emoji": "🍗"
+ },
+ {
+  "id": "fr-grechka-kurica-ovoshchi",
+  "title": "Гречка с курицей и овощами",
+  "description": "Порция полезного обеда: гречка, курица и тушёные овощи.",
+  "cookingTimeMinutes": 30,
+  "difficulty": "easy",
+  "servings": 1,
+  "mealType": "lunch",
+  "ingredients": [
+   {
+    "name": "Гречка",
+    "normalizedName": "buckwheat",
+    "quantity": 40.0,
+    "unit": "г"
+   },
+   {
+    "name": "Куриное филе",
+    "normalizedName": "chicken_breast",
+    "quantity": 80.0,
+    "unit": "г"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 30.0,
+    "unit": "г"
+   },
+   {
+    "name": "Болгарский перец",
+    "normalizedName": "bell_pepper",
+    "quantity": 30.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 20.0,
+    "unit": "г"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Зелень",
+    "normalizedName": "herbs",
+    "quantity": 1.0,
+    "unit": "веточка",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Отварите гречку в полстакане подсоленной воды около 20 минут.",
+   "Обжарьте кусочки курицы до румяности.",
+   "Добавьте мелко нарезанные овощи и тушите под крышкой 10 минут.",
+   "Смешайте с гречкой, приправьте и посыпьте зеленью."
+  ],
+  "emoji": "🌾"
+ },
+ {
+  "id": "fr-omlet-luk-pomidory",
+  "title": "Омлет с луком и помидорами",
+  "description": "Сытный омлет на обжаренных луке и томатах.",
+  "cookingTimeMinutes": 30,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "breakfast",
+  "ingredients": [
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 4.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Петрушка",
+    "normalizedName": "parsley",
+    "quantity": 0.333,
+    "unit": "пучка",
+    "optional": true
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "щепотка"
+   }
+  ],
+  "steps": [
+   "Обжарьте тонкие полукольца лука 5 минут.",
+   "Добавьте дольки помидора и жарьте ещё 5 минут.",
+   "Вылейте яйца, взбитые с солью и перцем, и готовьте под крышкой 7–8 минут.",
+   "Посыпьте петрушкой и по желанию тёртым сыром."
+  ],
+  "emoji": "🍳"
+ },
+ {
+  "id": "fr-omlet-vetchina-pomidory",
+  "title": "Омлет с ветчиной и помидорами",
+  "description": "Пышный омлет на молоке с полосками ветчины и кружками томата.",
+  "cookingTimeMinutes": 25,
+  "difficulty": "easy",
+  "servings": 1,
+  "mealType": "breakfast",
+  "ingredients": [
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Ветчина",
+    "normalizedName": "ham",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Молоко",
+    "normalizedName": "milk",
+    "quantity": 60.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Оливковое масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Базилик",
+    "normalizedName": "herbs",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Взбейте яйца с молоком, солью и перцем до однородности.",
+   "Вылейте на разогретое масло и сразу распределите сверху полоски ветчины.",
+   "Выложите кружки помидора, накройте крышкой и жарьте на слабом огне около 8 минут."
+  ],
+  "emoji": "🍳"
+ },
+ {
+  "id": "fr-omlet-s-syrom",
+  "title": "Омлет с сыром",
+  "description": "Нежный омлет с тёртым сыром внутри и сверху.",
+  "cookingTimeMinutes": 20,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "breakfast",
+  "ingredients": [
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 4.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Молоко",
+    "normalizedName": "milk",
+    "quantity": 50.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Хлеб",
+    "normalizedName": "bread",
+    "quantity": 2.0,
+    "unit": "ломтика",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 0.25,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Слегка взбейте яйца с солью и молоком.",
+   "Вмешайте почти весь тёртый сыр, немного оставьте для посыпки.",
+   "Растопите масло, вылейте смесь и жарьте под крышкой на слабом огне 7 минут.",
+   "Посыпьте оставшимся сыром и подавайте с тостами."
+  ],
+  "emoji": "🧀"
+ },
+ {
+  "id": "fr-omlet-brokkoli",
+  "title": "Омлет с брокколи",
+  "description": "Омлет с бланшированной брокколи на сливочном масле.",
+  "cookingTimeMinutes": 30,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "breakfast",
+  "ingredients": [
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Брокколи",
+    "normalizedName": "broccoli",
+    "quantity": 250.0,
+    "unit": "г"
+   },
+   {
+    "name": "Молоко",
+    "normalizedName": "milk",
+    "quantity": 80.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 55.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сушёный чеснок",
+    "normalizedName": "garlic",
+    "unit": "по вкусу",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Отварите соцветия брокколи в подсоленной воде 3–4 минуты.",
+   "Взбейте яйца с молоком, солью и перцем.",
+   "Обжарьте брокколи на сливочном масле со специями 2 минуты.",
+   "Залейте яйцами и готовьте под крышкой на слабом огне 5–6 минут."
+  ],
+  "emoji": "🥦"
+ },
+ {
+  "id": "fr-yaichnica-kartofel-bekon",
+  "title": "Яичница в духовке с картофелем и беконом",
+  "description": "Сытный завтрак: картофель и бекон, запечённые с яйцами.",
+  "cookingTimeMinutes": 40,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "breakfast",
+  "ingredients": [
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Бекон",
+    "normalizedName": "bacon",
+    "quantity": 150.0,
+    "unit": "г"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "unit": "для формы"
+   },
+   {
+    "name": "Зелень",
+    "normalizedName": "herbs",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Отварите картофель в подсоленной воде 10–15 минут, не разваривая.",
+   "Выстелите смазанную форму ломтиками бекона.",
+   "Выложите тонкие ломтики картофеля и разбейте сверху яйца, посолите и поперчите.",
+   "Запекайте 10–15 минут до нужной готовности желтков."
+  ],
+  "emoji": "🥓"
+ },
+ {
+  "id": "fr-ris-s-yaicom",
+  "title": "Жареный рис с яйцом и зелёным луком",
+  "description": "Простое и быстрое блюдо в азиатском стиле.",
+  "cookingTimeMinutes": 25,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "lunch",
+  "ingredients": [
+   {
+    "name": "Рис",
+    "normalizedName": "rice",
+    "quantity": 180.0,
+    "unit": "г"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Зелёный лук",
+    "normalizedName": "green_onion",
+    "quantity": 1.0,
+    "unit": "пучок"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 1.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 200.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Соевый соус",
+    "normalizedName": "soy_sauce",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "2 щепотки"
+   }
+  ],
+  "steps": [
+   "Сварите рис в стакане подсоленной воды под крышкой на минимальном огне.",
+   "Обжарьте измельчённый чеснок 1–2 минуты, добавьте рис.",
+   "Разбейте яйца и жарьте 5 минут, помешивая; посолите и поперчите.",
+   "Вмешайте зелёный лук; по желанию сбрызните соевым соусом."
+  ],
+  "emoji": "🍚"
+ },
+ {
+  "id": "fr-omlet-kabachki",
+  "title": "Омлет с кабачками",
+  "description": "Лёгкий омлет с кабачком, луком, чесноком и петрушкой.",
+  "cookingTimeMinutes": 20,
+  "difficulty": "easy",
+  "servings": 1,
+  "mealType": "breakfast",
+  "ingredients": [
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Кабачок",
+    "normalizedName": "zucchini",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 1.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Петрушка",
+    "normalizedName": "parsley",
+    "quantity": 0.5,
+    "unit": "пучка",
+    "optional": true
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 0.5,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Нарежьте кабачок тонкими ломтиками, проварите в кипятке 3–4 минуты и откиньте.",
+   "Обжарьте лук 4 минуты.",
+   "Взбейте яйца с солью и перцем, добавьте кабачки, лук, петрушку и чеснок.",
+   "Вылейте на горячую сковороду, накройте и готовьте на минимальном огне, затем переверните на тарелку румяной стороной вверх."
+  ],
+  "emoji": "🥒"
+ },
+ {
+  "id": "fr-omlet-kartofel-syr",
+  "title": "Омлет с картофелем и сыром",
+  "description": "Испанская тортилья по-домашнему с гаудой.",
+  "cookingTimeMinutes": 30,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "breakfast",
+  "ingredients": [
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Гауда",
+    "normalizedName": "cheese",
+    "quantity": 65.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Зелёный лук",
+    "normalizedName": "green_onion",
+    "quantity": 3.0,
+    "unit": "пера"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 4.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 0.5,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Взбейте яйца с солью и перцем и смешайте с тёртым сыром.",
+   "Обжарьте лук минуту, добавьте тончайшие ломтики картофеля на 2–3 минуты, слейте лишнее масло.",
+   "Смешайте овощи с яйцами и зелёным луком.",
+   "Жарьте под крышкой до схватывания, переверните и подрумяньте другую сторону."
+  ],
+  "emoji": "🥔"
+ },
+ {
+  "id": "fr-ovsyanka-na-moloke",
+  "title": "Овсяная каша на молоке",
+  "description": "Классическая каша на молоке с водой.",
+  "cookingTimeMinutes": 35,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "breakfast",
+  "ingredients": [
+   {
+    "name": "Овсяные хлопья",
+    "normalizedName": "oats",
+    "quantity": 90.0,
+    "unit": "г"
+   },
+   {
+    "name": "Молоко",
+    "normalizedName": "milk",
+    "quantity": 200.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 200.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "optional": true
+   },
+   {
+    "name": "Ягоды",
+    "normalizedName": "berries",
+    "optional": true
+   },
+   {
+    "name": "Сахар",
+    "normalizedName": "sugar",
+    "unit": "по вкусу"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Вскипятите воду с солью и всыпьте ополоснутые хлопья.",
+   "Варите 15 минут на среднем огне, затем влейте молоко и доведите до нужной густоты.",
+   "Подавайте с маслом, фруктами, ягодами или орехами."
+  ],
+  "emoji": "🥣"
+ },
+ {
+  "id": "fr-risovaya-kasha-molochnaya",
+  "title": "Молочная рисовая каша",
+  "description": "Нежная каша с маслом и сахаром.",
+  "cookingTimeMinutes": 35,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "breakfast",
+  "ingredients": [
+   {
+    "name": "Рис",
+    "normalizedName": "rice",
+    "quantity": 180.0,
+    "unit": "г"
+   },
+   {
+    "name": "Молоко",
+    "normalizedName": "milk",
+    "quantity": 500.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сахар",
+    "normalizedName": "sugar",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Клубника",
+    "normalizedName": "berries",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "щепотка"
+   }
+  ],
+  "steps": [
+   "Подогрейте молоко на медленном огне и всыпьте рис.",
+   "Варите под крышкой 15–20 минут.",
+   "Добавьте масло, сахар и соль, перемешайте; украсьте клубникой."
+  ],
+  "emoji": "🍚"
+ },
+ {
+  "id": "fr-pshennaya-kasha-tykva-moloko",
+  "title": "Пшённая каша с тыквой на молоке",
+  "description": "Яркая сладкая каша для холодного утра.",
+  "cookingTimeMinutes": 40,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "breakfast",
+  "ingredients": [
+   {
+    "name": "Пшено",
+    "normalizedName": "millet",
+    "quantity": 150.0,
+    "unit": "г"
+   },
+   {
+    "name": "Тыква",
+    "normalizedName": "pumpkin",
+    "quantity": 900.0,
+    "unit": "г"
+   },
+   {
+    "name": "Молоко",
+    "normalizedName": "milk",
+    "quantity": 500.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Сахар",
+    "normalizedName": "sugar",
+    "quantity": 5.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 50.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "щепотка"
+   }
+  ],
+  "steps": [
+   "Потушите кусочки тыквы с водой около 5 минут, затем добавьте промытое пшено.",
+   "Влейте молоко, добавьте сахар и соль, после закипания варите на минимальном огне 5–7 минут до готовности.",
+   "Подавайте с кусочком масла."
+  ],
+  "emoji": "🎃"
+ },
+ {
+  "id": "fr-mannaya-kasha",
+  "title": "Манная каша на молоке",
+  "description": "Воздушная манка без комочков.",
+  "cookingTimeMinutes": 20,
+  "difficulty": "easy",
+  "servings": 1,
+  "mealType": "breakfast",
+  "ingredients": [
+   {
+    "name": "Манка",
+    "normalizedName": "semolina",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Молоко",
+    "normalizedName": "milk",
+    "quantity": 200.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Сахар",
+    "normalizedName": "sugar",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 4.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Варенье",
+    "normalizedName": "jam",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Доведите молоко с солью и сахаром до кипения и слегка убавьте огонь.",
+   "Всыпайте манку тонкой струйкой, постоянно помешивая, и варите до загустения.",
+   "Вмешайте масло; по желанию украсьте вареньем или ягодами."
+  ],
+  "emoji": "🥣"
+ },
+ {
+  "id": "fr-shakshuka-syr",
+  "title": "Шакшука с сыром",
+  "description": "Яйца в пряном томатном соусе под сырной шапкой.",
+  "cookingTimeMinutes": 20,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "breakfast",
+  "ingredients": [
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 4.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Помидоры в собственном соку",
+    "normalizedName": "tomato",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 60.0,
+    "unit": "г"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Паприка",
+    "normalizedName": "paprika",
+    "quantity": 2.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Обжарьте мелко нарезанные лук и чеснок 3–5 минут, добавьте паприку, томаты, сахар и специи и потушите.",
+   "Разбейте сверху яйца и посыпьте тёртым сыром.",
+   "Готовьте под крышкой около 5 минут."
+  ],
+  "emoji": "🍳"
+ },
+ {
+  "id": "fr-skrembl-bekon",
+  "title": "Скрэмбл с беконом",
+  "description": "Нежная яичная болтушка, обжаренная на вытопленном жире бекона.",
+  "cookingTimeMinutes": 15,
+  "difficulty": "easy",
+  "servings": 1,
+  "mealType": "breakfast",
+  "ingredients": [
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Молоко",
+    "normalizedName": "milk",
+    "quantity": 50.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Бекон",
+    "normalizedName": "bacon",
+    "quantity": 20.0,
+    "unit": "г"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Взбейте яйца с молоком, солью и перцем.",
+   "Обжарьте бекон на сухой сковороде с двух сторон и выложите на салфетку.",
+   "Вылейте яйца на оставшийся жир и, когда они слегка схватятся, сдвигайте лопаткой от краёв к центру до нужной готовности.",
+   "Подавайте с беконом."
+  ],
+  "emoji": "🥓"
+ },
+ {
+  "id": "fr-salat-krevetki-perec",
+  "title": "Салат с креветками и болгарским перцем",
+  "description": "Хрустящий лёгкий салат с лимонной заправкой.",
+  "cookingTimeMinutes": 15,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "salad",
+  "ingredients": [
+   {
+    "name": "Креветки",
+    "normalizedName": "shrimp",
+    "quantity": 180.0,
+    "unit": "г"
+   },
+   {
+    "name": "Болгарский перец",
+    "normalizedName": "bell_pepper",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Огурцы",
+    "normalizedName": "cucumber",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Салат листовой",
+    "normalizedName": "lettuce",
+    "quantity": 80.0,
+    "unit": "г"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "unit": "по вкусу"
+   },
+   {
+    "name": "Лимонный сок",
+    "normalizedName": "lemon",
+    "unit": "по вкусу"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Отварите креветки в подсоленном кипятке 4–5 минут и остудите.",
+   "Нарежьте огурец и перец тонкой соломкой, порвите листья салата.",
+   "Соедините с креветками, заправьте маслом и лимонным соком, посолите."
+  ],
+  "emoji": "🦐"
+ },
+ {
+  "id": "fr-salat-kurica-fasol-kukuruza",
+  "title": "Салат с курицей, фасолью и кукурузой",
+  "description": "Сытный салат с медово-горчичной заправкой.",
+  "cookingTimeMinutes": 30,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "salad",
+  "ingredients": [
+   {
+    "name": "Куриное филе",
+    "normalizedName": "chicken_breast",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Красная фасоль",
+    "normalizedName": "beans",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Кукуруза",
+    "normalizedName": "corn",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Болгарский перец",
+    "normalizedName": "bell_pepper",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Петрушка",
+    "normalizedName": "parsley",
+    "quantity": 0.5,
+    "unit": "пучка",
+    "optional": true
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Горчица",
+    "normalizedName": "mustard",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Яблочный уксус",
+    "normalizedName": "vinegar",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Мёд",
+    "normalizedName": "honey",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 3.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Нарежьте курицу кубиками, приправьте и оставьте на 20–30 минут, затем обжарьте на ложке масла до золотистости.",
+   "Нарежьте помидоры и перец кубиками, порубите петрушку, добавьте фасоль и кукурузу без жидкости и курицу.",
+   "Смешайте оставшееся масло с уксусом, горчицей, мёдом, чесноком, тимьяном, солью и перцем и заправьте салат."
+  ],
+  "emoji": "🫘"
+ },
+ {
+  "id": "fr-salat-tunec-fasol-yabloko",
+  "title": "Салат с тунцом, фасолью и яблоком",
+  "description": "Быстрый салат из консервов с хрустящим яблоком.",
+  "cookingTimeMinutes": 10,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "salad",
+  "ingredients": [
+   {
+    "name": "Красная фасоль",
+    "normalizedName": "beans",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Тунец",
+    "normalizedName": "tuna",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Яблоки",
+    "normalizedName": "apple",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Красный лук",
+    "normalizedName": "red_onion",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Петрушка",
+    "normalizedName": "parsley",
+    "quantity": 9.0,
+    "unit": "г",
+    "optional": true
+   },
+   {
+    "name": "Майонез",
+    "normalizedName": "mayonnaise",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Промойте фасоль и выложите в салатник с полукольцами лука и размятым тунцом.",
+   "Добавьте очищенное яблоко соломкой, чеснок и петрушку.",
+   "Посолите, поперчите и заправьте майонезом."
+  ],
+  "emoji": "🐟"
+ },
+ {
+  "id": "fr-salat-pekinskaya-kurica",
+  "title": "Салат из пекинской капусты с курицей",
+  "description": "Запечённая грудка, яйцо и помидор на листьях пекинской капусты.",
+  "cookingTimeMinutes": 45,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "salad",
+  "ingredients": [
+   {
+    "name": "Пекинская капуста",
+    "normalizedName": "cabbage",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Куриная грудка",
+    "normalizedName": "chicken_breast",
+    "quantity": 250.0,
+    "unit": "г"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лимон",
+    "normalizedName": "lemon",
+    "quantity": 0.25,
+    "unit": "шт"
+   },
+   {
+    "name": "Оливковое масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Кунжут",
+    "normalizedName": "sesame",
+    "quantity": 1.0,
+    "unit": "ч. л.",
+    "optional": true
+   },
+   {
+    "name": "Сухарики",
+    "normalizedName": "bread",
+    "quantity": 20.0,
+    "unit": "г",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 2.0,
+    "unit": "г"
+   }
+  ],
+  "steps": [
+   "Посолите грудку, посыпьте травами, заверните в фольгу и запекайте 20–25 минут при 200 °C.",
+   "Сварите яйцо 10 минут и нарежьте на 8 частей; помидор и курицу нарежьте.",
+   "Выложите на порванные листья капусты курицу, помидор и яйцо.",
+   "Полейте лимонным соком и маслом, посыпьте кунжутом и сухариками."
+  ],
+  "emoji": "🥬"
+ },
+ {
+  "id": "fr-salat-kapusta-ogurec-goroshek",
+  "title": "Салат с капустой, огурцом и горошком",
+  "description": "Хрустящий салат с соевой заправкой и чесноком.",
+  "cookingTimeMinutes": 15,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "salad",
+  "ingredients": [
+   {
+    "name": "Пекинская капуста",
+    "normalizedName": "cabbage",
+    "quantity": 450.0,
+    "unit": "г"
+   },
+   {
+    "name": "Огурцы",
+    "normalizedName": "cucumber",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Консервированный горошек",
+    "normalizedName": "peas",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 3.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Оливковое масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 3.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соевый соус",
+    "normalizedName": "soy_sauce",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Тонко нашинкуйте капусту и слегка посолите.",
+   "Добавьте ломтики огурцов, чеснок и горошек.",
+   "Заправьте смесью масла и соевого соуса; по желанию посыпьте хлопьями чили."
+  ],
+  "emoji": "🥬"
+ },
+ {
+  "id": "fr-salat-fasol-perec-vetchina",
+  "title": "Салат с фасолью, перцем и ветчиной",
+  "description": "Яркий салат с сыром и сухариками.",
+  "cookingTimeMinutes": 15,
+  "difficulty": "easy",
+  "servings": 3,
+  "mealType": "salad",
+  "ingredients": [
+   {
+    "name": "Красная фасоль",
+    "normalizedName": "beans",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Ветчина",
+    "normalizedName": "ham",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Болгарский перец",
+    "normalizedName": "bell_pepper",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Майонез",
+    "normalizedName": "mayonnaise",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Петрушка",
+    "normalizedName": "parsley",
+    "quantity": 10.0,
+    "unit": "г",
+    "optional": true
+   },
+   {
+    "name": "Сухарики",
+    "normalizedName": "bread",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Промойте фасоль, нарежьте кубиками перец и ветчину, натрите сыр.",
+   "Смешайте с петрушкой, посолите и заправьте майонезом.",
+   "Добавьте сухарики перед подачей."
+  ],
+  "emoji": "🫘"
+ },
+ {
+  "id": "fr-salat-suhariki-kolbasa",
+  "title": "Салат с сухариками и колбасой",
+  "description": "Быстрый салат из огурцов, колбасы, кукурузы и сыра.",
+  "cookingTimeMinutes": 15,
+  "difficulty": "easy",
+  "servings": 3,
+  "mealType": "salad",
+  "ingredients": [
+   {
+    "name": "Кукуруза",
+    "normalizedName": "corn",
+    "quantity": 170.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сухарики",
+    "normalizedName": "bread",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Полукопчёная колбаса",
+    "normalizedName": "sausage",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Огурцы",
+    "normalizedName": "cucumber",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Майонез",
+    "normalizedName": "mayonnaise",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   }
+  ],
+  "steps": [
+   "Нарежьте огурцы и колбасу брусочками, натрите сыр.",
+   "Добавьте кукурузу и сухарики и заправьте майонезом."
+  ],
+  "emoji": "🥗"
+ },
+ {
+  "id": "fr-salat-yaico-bekon",
+  "title": "Салат с яйцом, беконом и пармезаном",
+  "description": "Айсберг, хрустящий бекон, яйца и черри с йогуртовой заправкой.",
+  "cookingTimeMinutes": 20,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "salad",
+  "ingredients": [
+   {
+    "name": "Салат айсберг",
+    "normalizedName": "lettuce",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 4.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Бекон",
+    "normalizedName": "bacon",
+    "quantity": 8.0,
+    "unit": "ломтиков"
+   },
+   {
+    "name": "Помидоры черри",
+    "normalizedName": "cherry_tomato",
+    "quantity": 10.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Пармезан",
+    "normalizedName": "parmesan",
+    "quantity": 30.0,
+    "unit": "г"
+   },
+   {
+    "name": "Греческий йогурт",
+    "normalizedName": "yogurt",
+    "quantity": 105.0,
+    "unit": "г"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Сварите яйца вкрутую и разрежьте на четвертинки, черри — пополам.",
+   "Обжарьте бекон на сухой сковороде до хруста.",
+   "Выложите айсберг, яйца, помидоры и бекон, полейте йогуртом с солью и перцем и посыпьте пармезаном."
+  ],
+  "emoji": "🥓"
+ },
+ {
+  "id": "fr-salat-pomidory-tvorog",
+  "title": "Салат с помидорами, творогом и зеленью",
+  "description": "Лёгкий салат с маслинами и ржаными сухариками.",
+  "cookingTimeMinutes": 10,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "salad",
+  "ingredients": [
+   {
+    "name": "Творог",
+    "normalizedName": "cottage_cheese",
+    "quantity": 70.0,
+    "unit": "г"
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Оливки",
+    "normalizedName": "olives",
+    "quantity": 10.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Зелень",
+    "normalizedName": "herbs",
+    "quantity": 1.0,
+    "unit": "пучок"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Ржаные сухарики",
+    "normalizedName": "bread",
+    "quantity": 2.0,
+    "unit": "ст. л.",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Нарежьте помидоры кубиками, маслины — вдоль, порубите зелень.",
+   "Добавьте размятый творог, посолите и заправьте сметаной.",
+   "Посыпьте сухариками и подавайте сразу."
+  ],
+  "emoji": "🍅"
+ },
+ {
+  "id": "fr-salat-adygeiskii-syr",
+  "title": "Тёплый салат с жареным сыром и черри",
+  "description": "Свежие овощи и ломтики сыра, обжаренные в чесночном масле с паприкой.",
+  "cookingTimeMinutes": 20,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "salad",
+  "ingredients": [
+   {
+    "name": "Помидоры черри",
+    "normalizedName": "cherry_tomato",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Адыгейский сыр",
+    "normalizedName": "cheese",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Болгарский перец",
+    "normalizedName": "bell_pepper",
+    "quantity": 150.0,
+    "unit": "г"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 1.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Салат айсберг",
+    "normalizedName": "lettuce",
+    "quantity": 2.0,
+    "unit": "листа"
+   },
+   {
+    "name": "Укроп",
+    "normalizedName": "dill",
+    "quantity": 5.0,
+    "unit": "веточек",
+    "optional": true
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 40.0,
+    "unit": "г"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Паприка",
+    "normalizedName": "paprika",
+    "unit": "по вкусу",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Нарежьте черри пополам, перец — кубиками, порвите айсберг, порубите укроп; посолите и заправьте маслом.",
+   "Растопите сливочное масло с паприкой и чесноком и прогрейте 1–2 минуты.",
+   "Обжарьте в нём ломтики сыра по 4–5 минут с каждой стороны и выложите на салат."
+  ],
+  "emoji": "🧀"
+ },
+ {
+  "id": "fr-salat-brokkoli-yaico-pomidory",
+  "title": "Салат из брокколи с яйцом и помидорами",
+  "description": "Тёплый салат с лимонной заправкой.",
+  "cookingTimeMinutes": 30,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "salad",
+  "ingredients": [
+   {
+    "name": "Брокколи",
+    "normalizedName": "broccoli",
+    "quantity": 230.0,
+    "unit": "г"
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Салат листовой",
+    "normalizedName": "lettuce",
+    "quantity": 30.0,
+    "unit": "г"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Лимонный сок",
+    "normalizedName": "lemon",
+    "unit": "по вкусу"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Отварите соцветия брокколи 5–6 минут и ополосните холодной водой; сварите яйца вкрутую.",
+   "Выложите листья салата, помидоры, брокколи и четвертинки яиц.",
+   "Полейте смесью масла и лимонного сока с солью и перцем."
+  ],
+  "emoji": "🥦"
+ },
+ {
+  "id": "fr-salat-brokkoli-apelsin",
+  "title": "Зелёный салат с брокколи и апельсином",
+  "description": "Свежий салат с цитрусовой заправкой.",
+  "cookingTimeMinutes": 35,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "salad",
+  "ingredients": [
+   {
+    "name": "Брокколи",
+    "normalizedName": "broccoli",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Апельсины",
+    "normalizedName": "orange",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Помидоры черри",
+    "normalizedName": "cherry_tomato",
+    "quantity": 6.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лимон",
+    "normalizedName": "lemon",
+    "quantity": 0.25,
+    "unit": "шт"
+   },
+   {
+    "name": "Оливковое масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Острый перец",
+    "normalizedName": "chili_pepper",
+    "quantity": 0.333,
+    "unit": "шт",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 0.333,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Отварите соцветия брокколи в подсоленной воде с лавровым листом и перцем, затем охладите в холодной воде 10–15 минут.",
+   "Из половины апельсина выжмите сок, вторую разберите на дольки без плёнок.",
+   "Смешайте масло с лимонным и апельсиновым соком, солью и перцем.",
+   "Соедините брокколи, черри и дольки апельсина, полейте заправкой, посыпьте чили."
+  ],
+  "emoji": "🍊"
+ },
+ {
+  "id": "fr-salat-kukuruza-perepelinye",
+  "title": "Лёгкий салат с кукурузой и яйцами",
+  "description": "Салатный микс с огурцами, кукурузой и сметаной.",
+  "cookingTimeMinutes": 15,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "salad",
+  "ingredients": [
+   {
+    "name": "Микс салатов",
+    "normalizedName": "lettuce",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Перепелиные яйца",
+    "normalizedName": "egg",
+    "quantity": 10.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Огурцы",
+    "normalizedName": "cucumber",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Кукуруза",
+    "normalizedName": "corn",
+    "quantity": 340.0,
+    "unit": "г"
+   },
+   {
+    "name": "Укроп",
+    "normalizedName": "dill",
+    "quantity": 15.0,
+    "unit": "г",
+    "optional": true
+   },
+   {
+    "name": "Зелёный лук",
+    "normalizedName": "green_onion",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 3.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Отварите перепелиные яйца 4 минуты, остудите в ледяной воде и разрежьте пополам.",
+   "Нарежьте огурцы кубиками, порвите салат, порубите зелень, добавьте кукурузу.",
+   "Посолите, заправьте сметаной и выложите сверху яйца."
+  ],
+  "emoji": "🌽"
+ },
+ {
+  "id": "fr-befstroganov-klassicheskii",
+  "title": "Бефстроганов из говядины",
+  "description": "Тонкие полоски говядины в томатно-сметанном соусе.",
+  "cookingTimeMinutes": 90,
+  "difficulty": "medium",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Говядина",
+    "normalizedName": "beef",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 150.0,
+    "unit": "г"
+   },
+   {
+    "name": "Томатная паста",
+    "normalizedName": "tomato_paste",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 20.0,
+    "unit": "г"
+   },
+   {
+    "name": "Петрушка",
+    "normalizedName": "parsley",
+    "quantity": 1.0,
+    "unit": "пучок",
+    "optional": true
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 60.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 300.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Нарежьте говядину поперёк волокон, отбейте и нарежьте тонкой соломкой; посолите, поперчите и присыпьте частью муки.",
+   "Обжарьте мясо до румяной корочки и переложите; на том же масле обжарьте лук полукольцами.",
+   "Добавьте томатную пасту, кипяток и мясо и тушите под крышкой до мягкости.",
+   "Вмешайте сметану, оставшуюся муку и петрушку и томите ещё 5 минут."
+  ],
+  "emoji": "🥩"
+ },
+ {
+  "id": "fr-myaso-po-francuzski-kartofel",
+  "title": "Мясо по-французски с картофелем",
+  "description": "Свинина, картофель, лук и помидоры под сыром, запечённые в одной форме.",
+  "cookingTimeMinutes": 80,
+  "difficulty": "easy",
+  "servings": 3,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Свинина",
+    "normalizedName": "pork",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Майонез",
+    "normalizedName": "mayonnaise",
+    "quantity": 3.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Укроп",
+    "normalizedName": "dill",
+    "quantity": 10.0,
+    "unit": "г",
+    "optional": true
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Слегка отбейте плоские куски свинины; кружки картофеля сбрызните маслом, посолите и приправьте.",
+   "Выложите в форму 2/3 картофеля, лук, мясо (посолите), затем оставшийся картофель и помидоры.",
+   "Смажьте майонезом с чесноком и укропом и посыпьте сыром.",
+   "Запекайте под фольгой 40 минут при 190 °C, затем без фольги ещё 10–15 минут."
+  ],
+  "emoji": "🥔"
+ },
+ {
+  "id": "fr-tushenaya-kartoshka-myaso",
+  "title": "Тушёная картошка со свининой",
+  "description": "Домашнее блюдо в одной кастрюле с томатом и чесноком.",
+  "cookingTimeMinutes": 100,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Свинина",
+    "normalizedName": "pork",
+    "quantity": 350.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 4.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Томатная паста",
+    "normalizedName": "tomato_paste",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Укроп",
+    "normalizedName": "dill",
+    "quantity": 2.0,
+    "unit": "веточки",
+    "optional": true
+   },
+   {
+    "name": "Лавровый лист",
+    "normalizedName": "bay_leaf",
+    "quantity": 1.0,
+    "unit": "шт",
+    "optional": true
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 300.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Обжарьте кубики свинины 7–8 минут, затем добавьте морковь на 4–5 минут.",
+   "Влейте воду, чтобы покрыть мясо, добавьте соль, перец горошком и лавровый лист и тушите до мягкости мяса.",
+   "Добавьте картофель и томатную пасту и тушите около 20 минут.",
+   "Вмешайте чеснок и укроп, через 3–4 минуты снимите с огня и дайте постоять под крышкой."
+  ],
+  "emoji": "🥘"
+ },
+ {
+  "id": "fr-tefteli-kabachok-duhovka",
+  "title": "Тефтели с кабачком в духовке",
+  "description": "Сочные тефтели с тёртым кабачком, запечённые в томатной заливке.",
+  "cookingTimeMinutes": 65,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Свиной фарш",
+    "normalizedName": "minced_meat",
+    "quantity": 350.0,
+    "unit": "г"
+   },
+   {
+    "name": "Кабачок",
+    "normalizedName": "zucchini",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 1.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Томатная паста",
+    "normalizedName": "tomato_paste",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 50.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Натрите кабачок, слегка посолите, через 5 минут отожмите.",
+   "Смешайте фарш с кабачком, яйцом, мелким луком, чесноком, солью и перцем.",
+   "Сформируйте шарики размером с мячик для пинг-понга и выложите в форму.",
+   "Залейте томатной пастой, разведённой водой, и запекайте 50 минут при 190 °C."
+  ],
+  "emoji": "🥒"
+ },
+ {
+  "id": "fr-kurinye-frikadelki-smetana",
+  "title": "Куриные фрикадельки в сметанном соусе",
+  "description": "Нежные фрикадельки в соусе с овощами и щепоткой карри.",
+  "cookingTimeMinutes": 50,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Куриный фарш",
+    "normalizedName": "chicken",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Панировочные сухари",
+    "normalizedName": "bread",
+    "quantity": 1.5,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Болгарский перец",
+    "normalizedName": "bell_pepper",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 5.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 200.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 0.5,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Смешайте фарш с яйцом, измельчёнными половиной луковицы и чесноком, сухарями и специями.",
+   "Скатайте шарики и обжарьте 10–15 минут на среднем огне.",
+   "На той же сковороде 5 минут обжарьте лук, тёртую морковь и перец, всыпьте муку и влейте сметану, разведённую водой; доведите до кипения.",
+   "Приправьте соус, выложите в него фрикадельки и дайте настояться под крышкой 10 минут."
+  ],
+  "emoji": "🍗"
+ },
+ {
+  "id": "fr-gulyash-s-kartofelem",
+  "title": "Гуляш из говядины с картофелем",
+  "description": "Мясо и картофель в густом томатном соусе — сытное блюдо без гарнира.",
+  "cookingTimeMinutes": 120,
+  "difficulty": "medium",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Говядина",
+    "normalizedName": "beef",
+    "quantity": 600.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Томатная паста",
+    "normalizedName": "tomato_paste",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 300.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Обжарьте кубики говядины 10 минут, добавьте лук и томите 5 минут.",
+   "Всыпьте муку на 1–2 минуты, добавьте томатную пасту и приправу.",
+   "Влейте воду, доведите до кипения и тушите под крышкой около часа до мягкости мяса.",
+   "Добавьте кубики картофеля, посолите и готовьте 20–25 минут."
+  ],
+  "emoji": "🥩"
+ },
+ {
+  "id": "fr-kartofelnye-zrazy",
+  "title": "Картофельные зразы с фаршем",
+  "description": "Румяные картофельные лепёшки с мясной начинкой.",
+  "cookingTimeMinutes": 65,
+  "difficulty": "medium",
+  "servings": 3,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Фарш",
+    "normalizedName": "minced_meat",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 6.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 3.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Панировочные сухари",
+    "normalizedName": "bread",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Отварите картофель 20–25 минут, разомните в пюре и остудите.",
+   "Обжарьте мелко нарезанные лук и морковь, добавьте фарш на 7–8 минут, посолите и поперчите.",
+   "Вмешайте в пюре яйцо и муку; мокрыми руками сформируйте лепёшки, положите в центр фарш и закройте.",
+   "Обваляйте в сухарях и обжарьте с двух сторон до золотистой корочки."
+  ],
+  "emoji": "🥔"
+ },
+ {
+  "id": "fr-kartoshka-myaso-sloyami",
+  "title": "Картошка и свинина, запечённые слоями",
+  "description": "Простейшая запеканка: картофель, мясо и сырная корочка.",
+  "cookingTimeMinutes": 80,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 600.0,
+    "unit": "г"
+   },
+   {
+    "name": "Свинина",
+    "normalizedName": "pork",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Майонез",
+    "normalizedName": "mayonnaise",
+    "quantity": 3.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Паприка",
+    "normalizedName": "paprika",
+    "unit": "по вкусу",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Выложите ломтики картофеля в смазанную форму, посолите, поперчите, посыпьте паприкой и смажьте майонезом.",
+   "Сверху разложите кубики свинины, приправьте и снова смажьте майонезом.",
+   "Посыпьте тёртым сыром и запекайте 40 минут при 180 °C."
+  ],
+  "emoji": "🥔"
+ },
+ {
+  "id": "fr-ezhiki-ris",
+  "title": "Ёжики с рисом в сметанно-томатном соусе",
+  "description": "Мясные шарики с рисом, запечённые в соусе.",
+  "cookingTimeMinutes": 60,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Фарш",
+    "normalizedName": "minced_meat",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Рис",
+    "normalizedName": "rice",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 150.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Томатная паста",
+    "normalizedName": "tomato_paste",
+    "quantity": 2.5,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Отварите рис до полуготовности.",
+   "Смешайте фарш с нарезанным луком, рисом, солью, перцем и ложкой томатной пасты.",
+   "Слепите шарики диаметром около 5 см и выложите в форму.",
+   "Залейте соусом из сметаны и оставшейся томатной пасты с водой и запекайте при 180 °C до готовности."
+  ],
+  "emoji": "🍚"
+ },
+ {
+  "id": "fr-svinye-rebra-folga",
+  "title": "Свиные рёбрышки в медово-горчичном маринаде",
+  "description": "Рёбрышки, замаринованные на 4 часа и запечённые в фольге.",
+  "cookingTimeMinutes": 300,
+  "difficulty": "easy",
+  "servings": 3,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Свиные рёбрышки",
+    "normalizedName": "pork",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Томатная паста",
+    "normalizedName": "tomato_paste",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Горчица",
+    "normalizedName": "mustard",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соевый соус",
+    "normalizedName": "soy_sauce",
+    "quantity": 3.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Мёд",
+    "normalizedName": "honey",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Уксус",
+    "normalizedName": "vinegar",
+    "quantity": 2.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 80.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Смешайте воду, томатную пасту, мёд, горчицу, уксус и соевый соус.",
+   "Разделите рёбра, посолите, поперчите, перемешайте с маринадом и уберите в холодильник на 4 часа.",
+   "Запекайте под фольгой около часа при 200 °C; за 20 минут до конца снимите фольгу, чтобы рёбра подрумянились."
+  ],
+  "emoji": "🍖"
+ },
+ {
+  "id": "fr-svinina-syrnyi-sous",
+  "title": "Свинина с грибами в сырном соусе",
+  "description": "Кусочки свиной шеи, тушённые с шампиньонами и плавленым сыром.",
+  "cookingTimeMinutes": 50,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Свиная шея",
+    "normalizedName": "pork",
+    "quantity": 500.0,
+    "unit": "г"
+   },
+   {
+    "name": "Шампиньоны",
+    "normalizedName": "mushroom",
+    "quantity": 320.0,
+    "unit": "г"
+   },
+   {
+    "name": "Плавленый сыр",
+    "normalizedName": "processed_cheese",
+    "quantity": 250.0,
+    "unit": "г"
+   },
+   {
+    "name": "Томатная паста",
+    "normalizedName": "tomato_paste",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Горчица",
+    "normalizedName": "mustard",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Паприка",
+    "normalizedName": "paprika",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Обжарьте кубики свинины на среднем огне.",
+   "Отварите шампиньоны 10 минут в подсоленной воде, нарежьте и добавьте к мясу.",
+   "Вмешайте томатную пасту, паприку и горчицу и тушите 20 минут на слабом огне.",
+   "Добавьте плавленый сыр и мешайте, пока он не растворится. Подавайте с рисом."
+  ],
+  "emoji": "🧀"
+ },
+ {
+  "id": "fr-svinina-shampinony",
+  "title": "Свинина с шампиньонами",
+  "description": "Быстрое тушёное мясо с грибами и луком.",
+  "cookingTimeMinutes": 35,
+  "difficulty": "easy",
+  "servings": 3,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Свинина",
+    "normalizedName": "pork",
+    "quantity": 250.0,
+    "unit": "г"
+   },
+   {
+    "name": "Шампиньоны",
+    "normalizedName": "mushroom",
+    "quantity": 150.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук-шалот",
+    "normalizedName": "onion",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "unit": "для жарки"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "unit": "для подачи",
+    "optional": true
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 300.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Обжарьте кубики свинины до румяности и переложите.",
+   "На том же масле обжарьте грибы с луком, верните мясо и влейте воду.",
+   "Тушите 10 минут на слабом огне, посолите и поперчите; подавайте со сметаной."
+  ],
+  "emoji": "🍄"
+ },
+ {
+  "id": "fr-svinina-griby-smetana",
+  "title": "Свинина, тушённая с грибами в сметане",
+  "description": "Мягкое мясо в густом сметанном соусе с шампиньонами.",
+  "cookingTimeMinutes": 40,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Свинина",
+    "normalizedName": "pork",
+    "quantity": 500.0,
+    "unit": "г"
+   },
+   {
+    "name": "Шампиньоны",
+    "normalizedName": "mushroom",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 350.0,
+    "unit": "г"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 30.0,
+    "unit": "г"
+   },
+   {
+    "name": "Зелень",
+    "normalizedName": "herbs",
+    "quantity": 40.0,
+    "unit": "г",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Обжарьте кубики свинины до золотистой корочки.",
+   "Добавьте дольки грибов, соль и перец и жарьте почти до готовности.",
+   "Влейте сметану и тушите под крышкой на слабом огне 15 минут, посыпьте зеленью."
+  ],
+  "emoji": "🍄"
+ },
+ {
+  "id": "fr-befstroganov-griby",
+  "title": "Бефстроганов с грибами",
+  "description": "Говяжья вырезка, быстро обжаренная и соединённая с грибами в сметане.",
+  "cookingTimeMinutes": 60,
+  "difficulty": "medium",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Говяжья вырезка",
+    "normalizedName": "beef",
+    "quantity": 500.0,
+    "unit": "г"
+   },
+   {
+    "name": "Шампиньоны",
+    "normalizedName": "mushroom",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 250.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 5.0,
+    "unit": "г"
+   },
+   {
+    "name": "Горчица",
+    "normalizedName": "mustard",
+    "quantity": 5.0,
+    "unit": "г"
+   },
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 20.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 60.0,
+    "unit": "г"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 5.0,
+    "unit": "г"
+   }
+  ],
+  "steps": [
+   "Обжарьте на сливочном масле лук и чеснок, затем грибы до золотистой корочки, посолите.",
+   "Соедините грибной сок со сметаной, горчицей и перцем, залейте грибы и потомите 2–3 минуты.",
+   "Нарежьте говядину ломтиками 0,5 см, слегка отбейте, нарежьте полосками и обваляйте в муке.",
+   "Обжарьте мясо 5 минут на сильном огне, переложите к грибам и прогрейте, не доводя до кипения; дайте настояться под крышкой."
+  ],
+  "emoji": "🍄"
+ },
+ {
+  "id": "fr-shaurma-domashnyaya",
+  "title": "Домашняя шаурма с курицей",
+  "description": "Курица в пряном маринаде, овощи и чесночный соус в лаваше.",
+  "cookingTimeMinutes": 90,
+  "difficulty": "medium",
+  "servings": 2,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Армянский лаваш",
+    "normalizedName": "tortilla",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Куриная грудка",
+    "normalizedName": "chicken_breast",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Капуста",
+    "normalizedName": "cabbage",
+    "quantity": 150.0,
+    "unit": "г"
+   },
+   {
+    "name": "Солёные огурцы",
+    "normalizedName": "pickles",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Майонез",
+    "normalizedName": "mayonnaise",
+    "quantity": 6.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 4.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 3.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Паприка",
+    "normalizedName": "paprika",
+    "quantity": 2.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Зелень",
+    "normalizedName": "herbs",
+    "quantity": 15.0,
+    "unit": "г",
+    "optional": true
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Нарежьте курицу, натрите солью, паприкой, сушёным чесноком и перцем, сбрызните маслом и оставьте мариноваться.",
+   "Смешайте сметану, майонез, зелень и чеснок — соус должен настояться 10–15 минут.",
+   "Обжарьте курицу 5–7 минут; нашинкуйте капусту, нарежьте огурцы полосками, помидоры кружками.",
+   "Смажьте лаваш соусом, выложите курицу, овощи и сыр, плотно сверните.",
+   "Подрумяньте шаурму на сухой сковороде с обеих сторон."
+  ],
+  "emoji": "🌯"
+ },
+ {
+  "id": "fr-shaurma-bystraya",
+  "title": "Быстрая шаурма с копчёной курицей",
+  "description": "Перекус за 15 минут без готовки.",
+  "cookingTimeMinutes": 15,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "other",
+  "ingredients": [
+   {
+    "name": "Армянский лаваш",
+    "normalizedName": "tortilla",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Копчёная курица",
+    "normalizedName": "chicken",
+    "quantity": 125.0,
+    "unit": "г"
+   },
+   {
+    "name": "Огурцы",
+    "normalizedName": "cucumber",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Салат листовой",
+    "normalizedName": "lettuce",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Майонез",
+    "normalizedName": "mayonnaise",
+    "unit": "по вкусу"
+   },
+   {
+    "name": "Кетчуп",
+    "normalizedName": "ketchup",
+    "unit": "по вкусу",
+    "optional": true
+   }
+  ],
+  "steps": [
+   "Мелко нарежьте курицу, порвите салат, натрите огурец и отожмите сок.",
+   "Смажьте половину лаваша майонезом и выложите начинку.",
+   "Накройте второй половиной, подверните край и сверните тугим рулетом. Подавайте сразу."
+  ],
+  "emoji": "🌯"
+ },
+ {
+  "id": "fr-zhyulen-kurica-griby",
+  "title": "Жюльен с курицей и грибами",
+  "description": "Курица и шампиньоны в сметане под сырной корочкой.",
+  "cookingTimeMinutes": 40,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Куриное филе",
+    "normalizedName": "chicken_breast",
+    "quantity": 600.0,
+    "unit": "г"
+   },
+   {
+    "name": "Шампиньоны",
+    "normalizedName": "mushroom",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 420.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Оливковое масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Обжарьте кубики курицы около 4 минут, добавьте ломтики грибов и жарьте до готовности.",
+   "Снимите с огня, вмешайте сметану, посолите и поперчите.",
+   "Разложите по формочкам, посыпьте сыром и запекайте 10 минут до золотистой корочки."
+  ],
+  "emoji": "🍄"
+ },
+ {
+  "id": "fr-lenivye-hachapuri-kefir",
+  "title": "Ленивые хачапури на кефире",
+  "description": "Жареные лепёшки с сыром и петрушкой, смазанные маслом.",
+  "cookingTimeMinutes": 55,
+  "difficulty": "medium",
+  "servings": 6,
+  "mealType": "baking",
+  "ingredients": [
+   {
+    "name": "Кефир",
+    "normalizedName": "kefir",
+    "quantity": 206.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 520.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сулугуни",
+    "normalizedName": "cheese",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Петрушка",
+    "normalizedName": "parsley",
+    "quantity": 2.0,
+    "unit": "веточки",
+    "optional": true
+   },
+   {
+    "name": "Сода",
+    "normalizedName": "baking_powder",
+    "quantity": 0.25,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 0.333,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Взбейте одно яйцо с солью и сахаром, добавьте кефир, затем муку с содой и замесите мягкое тесто; дайте отдохнуть 15 минут.",
+   "Смешайте тёртый сыр с петрушкой и вторым яйцом.",
+   "Разделите тесто на 6 частей, раскатайте лепёшки, выложите начинку и защипните края.",
+   "Жарьте швом вниз 4–5 минут, переверните и дожарьте; смажьте растопленным маслом."
+  ],
+  "emoji": "🧀"
+ },
+ {
+  "id": "fr-griby-smetana-skovoroda",
+  "title": "Грибы в сметане на сковороде",
+  "description": "Обжаренные грибы в густом сметанном соусе.",
+  "cookingTimeMinutes": 25,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "lunch",
+  "ingredients": [
+   {
+    "name": "Грибы",
+    "normalizedName": "mushroom",
+    "quantity": 500.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 210.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 1.5,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Укроп",
+    "normalizedName": "dill",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Нарежьте грибы ломтиками и обжарьте на ложке масла 5 минут.",
+   "На второй ложке масла подрумяньте муку.",
+   "Добавьте к грибам соль, перец, сметану и муку и потомите на слабом огне до загустения. Подавайте с чёрным хлебом."
+  ],
+  "emoji": "🍄"
+ },
+ {
+  "id": "fr-kesadilya-kurica-ovoshchi",
+  "title": "Кесадилья с курицей и овощами",
+  "description": "Тортильи с курицей, перцем, кукурузой и чеддером.",
+  "cookingTimeMinutes": 45,
+  "difficulty": "medium",
+  "servings": 6,
+  "mealType": "dinner",
+  "ingredients": [
+   {
+    "name": "Лаваш / тортилья",
+    "normalizedName": "tortilla",
+    "quantity": 6.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Куриное филе",
+    "normalizedName": "chicken_breast",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Болгарский перец",
+    "normalizedName": "bell_pepper",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Кукуруза",
+    "normalizedName": "corn",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Красный лук",
+    "normalizedName": "red_onion",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Острый перец",
+    "normalizedName": "chili_pepper",
+    "quantity": 2.0,
+    "unit": "шт",
+    "optional": true
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 5.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеддер",
+    "normalizedName": "cheese",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Кинза",
+    "normalizedName": "herbs",
+    "quantity": 1.0,
+    "unit": "пучок",
+    "optional": true
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "unit": "для жарки"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Обжарьте мелко нарезанную курицу до готовности и переложите.",
+   "На сильном огне обжарьте перцы, затем лук, чеснок, помидоры и кукурузу; приправьте и смешайте с курицей и кинзой.",
+   "Выложите на половину прогретой тортильи сыр и начинку, накройте второй половиной.",
+   "Обжарьте по 4–5 минут с каждой стороны до золотистости."
+  ],
+  "emoji": "🌮"
+ },
+ {
+  "id": "fr-rulet-lavash-vetchina-syr",
+  "title": "Рулет из лаваша с ветчиной и плавленым сыром",
+  "description": "Холодная закуска к праздничному столу.",
+  "cookingTimeMinutes": 80,
+  "difficulty": "easy",
+  "servings": 8,
+  "mealType": "other",
+  "ingredients": [
+   {
+    "name": "Армянский лаваш",
+    "normalizedName": "tortilla",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Ветчина",
+    "normalizedName": "ham",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Плавленый сыр",
+    "normalizedName": "processed_cheese",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 1.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Оливковое масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Укроп",
+    "normalizedName": "dill",
+    "optional": true
+   }
+  ],
+  "steps": [
+   "Смешайте тёртый чеснок с маслом и смажьте лаваш.",
+   "Промажьте плавленым сыром, посыпьте укропом и разложите ветчину.",
+   "Плотно сверните, заверните в плёнку и уберите в холодильник; затем нарежьте порциями."
+  ],
+  "emoji": "🌯"
+ },
+ {
+  "id": "fr-lavash-syr-skovoroda",
+  "title": "Конвертики из лаваша с сыром и яйцом",
+  "description": "Хрустящие конвертики с начинкой из сыра, яиц и зелени.",
+  "cookingTimeMinutes": 25,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "breakfast",
+  "ingredients": [
+   {
+    "name": "Армянский лаваш",
+    "normalizedName": "tortilla",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Зелёный лук",
+    "normalizedName": "green_onion",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Петрушка",
+    "normalizedName": "parsley",
+    "quantity": 1.0,
+    "unit": "пучок",
+    "optional": true
+   },
+   {
+    "name": "Майонез",
+    "normalizedName": "mayonnaise",
+    "quantity": 4.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Сварите яйца, остудите и натрите вместе с сыром.",
+   "Добавьте рубленую зелень, сметану и майонез, посолите и поперчите.",
+   "Разрежьте лаваш на прямоугольники, положите начинку и сверните конвертиками.",
+   "Обжарьте на масле с двух сторон до румяности."
+  ],
+  "emoji": "🌯"
+ },
+ {
+  "id": "fr-tvorog-ukrop-chesnok",
+  "title": "Творожная намазка с укропом и чесноком",
+  "description": "Быстрая закуска к хлебу из творога и зелени.",
+  "cookingTimeMinutes": 10,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "other",
+  "ingredients": [
+   {
+    "name": "Творог",
+    "normalizedName": "cottage_cheese",
+    "quantity": 180.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Укроп",
+    "normalizedName": "dill",
+    "quantity": 15.0,
+    "unit": "г"
+   },
+   {
+    "name": "Хлеб",
+    "normalizedName": "bread",
+    "unit": "для подачи",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "щепотка"
+   }
+  ],
+  "steps": [
+   "Пропустите чеснок через пресс и мелко порубите укроп.",
+   "Смешайте творог со сметаной, чесноком, укропом, солью и перцем. Подавайте с хлебом."
+  ],
+  "emoji": "🌿"
+ },
+ {
+  "id": "fr-zharenye-krevetki",
+  "title": "Жареные креветки с чили и соевым соусом",
+  "description": "Острая закуска за несколько минут.",
+  "cookingTimeMinutes": 15,
+  "difficulty": "easy",
+  "servings": 8,
+  "mealType": "other",
+  "ingredients": [
+   {
+    "name": "Креветки",
+    "normalizedName": "shrimp",
+    "quantity": 500.0,
+    "unit": "г"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 1.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Острый перец",
+    "normalizedName": "chili_pepper",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Соевый соус",
+    "normalizedName": "soy_sauce",
+    "quantity": 30.0,
+    "unit": "г"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 40.0,
+    "unit": "г"
+   },
+   {
+    "name": "Кунжут",
+    "normalizedName": "sesame",
+    "optional": true
+   }
+  ],
+  "steps": [
+   "Очистите креветки, нарежьте чеснок и чили тонкими пластинками.",
+   "Выложите креветки на разогретое масло, добавьте соевый соус, чили и чеснок.",
+   "Обжаривайте 3–4 минуты, помешивая; посыпьте кунжутом и зеленью."
+  ],
+  "emoji": "🦐"
+ },
+ {
+  "id": "fr-buterbrody-tvorog-zelen",
+  "title": "Тосты с творогом и зеленью",
+  "description": "Хрустящий хлеб с творожной намазкой.",
+  "cookingTimeMinutes": 10,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "breakfast",
+  "ingredients": [
+   {
+    "name": "Творог",
+    "normalizedName": "cottage_cheese",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Хлеб",
+    "normalizedName": "bread",
+    "quantity": 2.0,
+    "unit": "ломтика"
+   },
+   {
+    "name": "Йогурт",
+    "normalizedName": "yogurt",
+    "quantity": 0.5,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "г"
+   },
+   {
+    "name": "Зелень",
+    "normalizedName": "herbs",
+    "unit": "по вкусу"
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Подсушите ломтики хлеба на сухой сковороде с двух сторон.",
+   "Смешайте творог с йогуртом, измельчёнными чесноком и зеленью, посолите и поперчите.",
+   "Намажьте на тосты и украсьте помидором."
+  ],
+  "emoji": "🍞"
+ },
+ {
+  "id": "fr-lenivye-hachapuri-skovoroda",
+  "title": "Ленивые хачапури из жидкого теста",
+  "description": "Сырная лепёшка на сковороде — без раскатки теста.",
+  "cookingTimeMinutes": 25,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "breakfast",
+  "ingredients": [
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 150.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сыр",
+    "normalizedName": "cheese",
+    "quantity": 80.0,
+    "unit": "г"
+   },
+   {
+    "name": "Молоко",
+    "normalizedName": "milk",
+    "quantity": 300.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Зелёный лук",
+    "normalizedName": "green_onion",
+    "quantity": 20.0,
+    "unit": "г",
+    "optional": true
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 50.0,
+    "unit": "г",
+    "optional": true
+   }
+  ],
+  "steps": [
+   "Смешайте яйца с молоком и просеянной мукой до однородности, вмешайте тёртый сыр.",
+   "Растопите масло на сковороде и вылейте тесто.",
+   "Жарьте по 5–7 минут с каждой стороны до золотистой корочки, украсьте луком и помидором."
+  ],
+  "emoji": "🧀"
+ },
+ {
+  "id": "fr-chizkeik-v-kruzhke",
+  "title": "Чизкейк в кружке за 3 минуты",
+  "description": "Нежный творожный десерт в микроволновке.",
+  "cookingTimeMinutes": 10,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "dessert",
+  "ingredients": [
+   {
+    "name": "Творожный сыр",
+    "normalizedName": "cream_cheese",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Йогурт",
+    "normalizedName": "yogurt",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Крахмал",
+    "normalizedName": "starch",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Сахар",
+    "normalizedName": "sugar",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Варенье",
+    "normalizedName": "jam",
+    "unit": "для подачи",
+    "optional": true
+   }
+  ],
+  "steps": [
+   "Смешайте венчиком яйцо, творожный сыр и йогурт.",
+   "Добавьте крахмал, ванилин и сахар.",
+   "Заполните кружку наполовину и готовьте 3 минуты на максимальной мощности.",
+   "Переверните на тарелку и полейте вареньем."
+  ],
+  "emoji": "🍰"
+ },
+ {
+  "id": "fr-rulet-iz-pechenya",
+  "title": "Рулет из печенья с творогом без выпечки",
+  "description": "Шоколадный слой из печенья и творожная начинка. Нужно время, чтобы рулет застыл в холодильнике.",
+  "cookingTimeMinutes": 215,
+  "difficulty": "easy",
+  "servings": 6,
+  "mealType": "dessert",
+  "ingredients": [
+   {
+    "name": "Песочное печенье",
+    "normalizedName": "cookies",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Молоко",
+    "normalizedName": "milk",
+    "quantity": 50.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Творог",
+    "normalizedName": "cottage_cheese",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сахар",
+    "normalizedName": "sugar",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Какао",
+    "normalizedName": "cocoa",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Варенье",
+    "normalizedName": "jam",
+    "quantity": 3.0,
+    "unit": "ст. л.",
+    "optional": true
+   }
+  ],
+  "steps": [
+   "Измельчите печенье в крошку и смешайте руками с молоком и какао.",
+   "Отдельно смешайте творог с мягким маслом, сахаром и ванилином.",
+   "Распределите основу пластом на плёнке, сверху — начинку, и сверните рулет с помощью плёнки.",
+   "Уберите в холодильник до застывания и нарежьте порциями."
+  ],
+  "emoji": "🍫"
+ },
+ {
+  "id": "fr-bystroe-pechene",
+  "title": "Быстрое сливочное печенье",
+  "description": "Простое печенье из яйца, масла и муки.",
+  "cookingTimeMinutes": 30,
+  "difficulty": "easy",
+  "servings": 10,
+  "mealType": "baking",
+  "ingredients": [
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 195.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 3.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Сахар",
+    "normalizedName": "sugar",
+    "quantity": 3.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Разрыхлитель",
+    "normalizedName": "baking_powder",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Взбейте яйцо с сахаром миксером 3–4 минуты, добавьте ваниль.",
+   "Понемногу вмешайте мягкое масло, затем муку с разрыхлителем.",
+   "Отсадите продолговатые заготовки на противень с пергаментом и выпекайте при 180 °C до золотистости."
+  ],
+  "emoji": "🍪"
+ },
+ {
+  "id": "fr-bananovyi-keks-ovsyanka",
+  "title": "Банановый кекс из овсянки с шоколадом",
+  "description": "Кекс без пшеничной муки: овсянка, бананы и кусочки шоколада.",
+  "cookingTimeMinutes": 45,
+  "difficulty": "easy",
+  "servings": 12,
+  "mealType": "baking",
+  "ingredients": [
+   {
+    "name": "Овсяные хлопья",
+    "normalizedName": "oats",
+    "quantity": 180.0,
+    "unit": "г"
+   },
+   {
+    "name": "Бананы",
+    "normalizedName": "banana",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 120.0,
+    "unit": "г"
+   },
+   {
+    "name": "Тёмный шоколад",
+    "normalizedName": "chocolate",
+    "quantity": 70.0,
+    "unit": "г"
+   },
+   {
+    "name": "Разрыхлитель",
+    "normalizedName": "baking_powder",
+    "quantity": 2.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 0.5,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Разогрейте духовку до 180 °C и смелите овсянку в муку.",
+   "Смешайте растопленное масло, банановое пюре и яйца.",
+   "Добавьте сухие ингредиенты и кубики шоколада.",
+   "Выпекайте в форме 40 минут до сухой зубочистки."
+  ],
+  "emoji": "🍌"
+ },
+ {
+  "id": "fr-puding-shokoladnyi",
+  "title": "Шоколадный пудинг",
+  "description": "Нежный пудинг на молоке и крахмале.",
+  "cookingTimeMinutes": 20,
+  "difficulty": "easy",
+  "servings": 3,
+  "mealType": "dessert",
+  "ingredients": [
+   {
+    "name": "Молоко",
+    "normalizedName": "milk",
+    "quantity": 400.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Сахар",
+    "normalizedName": "sugar",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Кукурузный крахмал",
+    "normalizedName": "starch",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Какао",
+    "normalizedName": "cocoa",
+    "quantity": 2.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Ягоды",
+    "normalizedName": "berries",
+    "unit": "для подачи",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 0.25,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Подогрейте молоко до 38–40 °C и снимите с огня.",
+   "Смешайте какао, сахар, соль и крахмал и размешайте в молоке без комочков.",
+   "Прогревайте на среднем огне, помешивая, до загустения и проварите ещё минуту.",
+   "Разлейте по формочкам, накройте и остудите."
+  ],
+  "emoji": "🍫"
+ },
+ {
+  "id": "fr-medovik-na-skovorode",
+  "title": "Медовик на сковороде",
+  "description": "Медовые коржи без духовки и сметанный крем. Торт пропитывается 4–5 часов.",
+  "cookingTimeMinutes": 470,
+  "difficulty": "medium",
+  "servings": 8,
+  "mealType": "dessert",
+  "ingredients": [
+   {
+    "name": "Мёд",
+    "normalizedName": "honey",
+    "quantity": 1.5,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сахар",
+    "normalizedName": "sugar",
+    "quantity": 250.0,
+    "unit": "г"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 650.0,
+    "unit": "г"
+   },
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 390.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сода",
+    "normalizedName": "baking_powder",
+    "quantity": 0.5,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Растопите на водяной бане масло, 150 г сахара и мёд, не доводя до кипения; добавьте соду и немного остудите.",
+   "Вмешайте яйца, 2 ст. л. сметаны и муку, замесите тесто и охладите.",
+   "Для крема смешайте оставшуюся сметану со 100 г сахара и ванильным сахаром и охладите.",
+   "Разделите тесто на 6 частей, тонко раскатайте и обжарьте коржи на сухой сковороде; обрезки подсушите и измельчите в крошку.",
+   "Промажьте коржи и бока кремом, обсыпьте крошкой и оставьте в холодильнике на 4–5 часов."
+  ],
+  "emoji": "🍯"
+ },
+ {
+  "id": "fr-pechene-na-skovorode",
+  "title": "Печенье на сковороде",
+  "description": "Мягкое печенье без духовки.",
+  "cookingTimeMinutes": 30,
+  "difficulty": "easy",
+  "servings": 1,
+  "mealType": "dessert",
+  "ingredients": [
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 1.5,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Сахар",
+    "normalizedName": "sugar",
+    "quantity": 2.5,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Разрыхлитель",
+    "normalizedName": "baking_powder",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Шоколад",
+    "normalizedName": "chocolate",
+    "unit": "для украшения",
+    "optional": true
+   }
+  ],
+  "steps": [
+   "Замесите тесто из муки, яйца, масла, сахара и разрыхлителя, скатайте шар и ненадолго охладите в морозилке.",
+   "Раскатайте пласт и вырежьте печенье формочками.",
+   "Обжарьте на сухой сковороде на небольшом огне с двух сторон. Украсьте растопленным шоколадом."
+  ],
+  "emoji": "🍪"
+ },
+ {
+  "id": "fr-bananovyi-biskvitnyi-pirog",
+  "title": "Бисквитный пирог с бананом",
+  "description": "Лёгкий бисквит с половинками банана и лимонной цедрой.",
+  "cookingTimeMinutes": 55,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "baking",
+  "ingredients": [
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 130.0,
+    "unit": "г"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Сахар",
+    "normalizedName": "sugar",
+    "quantity": 70.0,
+    "unit": "г"
+   },
+   {
+    "name": "Бананы",
+    "normalizedName": "banana",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лимонная цедра",
+    "normalizedName": "lemon",
+    "quantity": 20.0,
+    "unit": "г"
+   },
+   {
+    "name": "Разрыхлитель",
+    "normalizedName": "baking_powder",
+    "quantity": 3.0,
+    "unit": "г"
+   }
+  ],
+  "steps": [
+   "Взбейте яйца с ванильным сахаром, затем постепенно с сахаром 5–6 минут до пышной массы.",
+   "Добавьте цедру лимона, муку и разрыхлитель и аккуратно замесите жидкое тесто.",
+   "Вылейте в форму, сверху уложите половинки банана срезом вверх.",
+   "Выпекайте около 30 минут до готовности бисквита."
+  ],
+  "emoji": "🍌"
+ },
+ {
+  "id": "fr-shokoladnoe-pechene",
+  "title": "Шоколадное печенье",
+  "description": "Мягкое печенье на какао.",
+  "cookingTimeMinutes": 85,
+  "difficulty": "easy",
+  "servings": 5,
+  "mealType": "baking",
+  "ingredients": [
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 130.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сахар",
+    "normalizedName": "sugar",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Какао",
+    "normalizedName": "cocoa",
+    "quantity": 35.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 75.0,
+    "unit": "г"
+   },
+   {
+    "name": "Разрыхлитель",
+    "normalizedName": "baking_powder",
+    "quantity": 2.0,
+    "unit": "г"
+   }
+  ],
+  "steps": [
+   "Смешайте просеянную муку с разрыхлителем и какао.",
+   "Взбейте яйцо с сахаром, добавьте мягкое масло, затем сухую смесь.",
+   "Охладите тесто под плёнкой 60 минут.",
+   "Скатайте шарики, выложите на пергамент с промежутками и выпекайте при 180 °C."
+  ],
+  "emoji": "🍪"
+ },
+ {
+  "id": "fr-limonnyi-mannik",
+  "title": "Лимонный манник на йогурте",
+  "description": "Небольшой ароматный пирог с цедрой и лимонным соком.",
+  "cookingTimeMinutes": 60,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "baking",
+  "ingredients": [
+   {
+    "name": "Манка",
+    "normalizedName": "semolina",
+    "quantity": 4.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Сахар",
+    "normalizedName": "sugar",
+    "quantity": 4.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Греческий йогурт",
+    "normalizedName": "yogurt",
+    "quantity": 105.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лимон",
+    "normalizedName": "lemon",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Разрыхлитель",
+    "normalizedName": "baking_powder",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Сливочное масло",
+    "normalizedName": "butter",
+    "quantity": 0.5,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Залейте манку йогуртом и оставьте набухать на 30 минут.",
+   "Взбейте яйцо с сахаром и ванильным сахаром до пышности и вмешайте манку.",
+   "Добавьте цедру и сок лимона, разрыхлитель и муку.",
+   "Выпекайте в смазанной форме 25–30 минут при 180 °C."
+  ],
+  "emoji": "🍋"
+ },
+ {
+  "id": "fr-tvorozhnye-lepeshki",
+  "title": "Творожные лепёшки в духовке",
+  "description": "Пышные лепёшки на взбитых белках.",
+  "cookingTimeMinutes": 65,
+  "difficulty": "easy",
+  "servings": 6,
+  "mealType": "baking",
+  "ingredients": [
+   {
+    "name": "Творог",
+    "normalizedName": "cottage_cheese",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 130.0,
+    "unit": "г"
+   },
+   {
+    "name": "Яичные белки",
+    "normalizedName": "egg",
+    "quantity": 4.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Сахар",
+    "normalizedName": "sugar",
+    "quantity": 75.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сода",
+    "normalizedName": "baking_powder",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Сгущёнка",
+    "normalizedName": "condensed_milk",
+    "unit": "для подачи",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "щепотка"
+   }
+  ],
+  "steps": [
+   "Взбейте белки с солью до пены, постепенно всыпая сахар.",
+   "Разомните творог и аккуратно соедините с белками.",
+   "Понемногу вмешайте муку с содой.",
+   "Выкладывайте ложкой на пергамент и выпекайте 20 минут при 200 °C до румяности."
+  ],
+  "emoji": "🧁"
+ },
+ {
+  "id": "fr-pesochnoe-pechene",
+  "title": "Песочное печенье на растительном масле",
+  "description": "Рассыпчатое печенье из простых продуктов.",
+  "cookingTimeMinutes": 30,
+  "difficulty": "easy",
+  "servings": 14,
+  "mealType": "baking",
+  "ingredients": [
+   {
+    "name": "Мука",
+    "normalizedName": "flour",
+    "quantity": 250.0,
+    "unit": "г"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Сахар",
+    "normalizedName": "sugar",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 50.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Разрыхлитель",
+    "normalizedName": "baking_powder",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "щепотка"
+   }
+  ],
+  "steps": [
+   "Взбейте яйцо с сахаром и солью добела и вмешайте масло.",
+   "Добавьте муку с разрыхлителем и вымесите мягкое тесто.",
+   "Скатайте шарики, слегка придавите, обмакните одной стороной в сахар.",
+   "Выпекайте 15–20 минут при 180 °C."
+  ],
+  "emoji": "🍪"
  }
 ]
