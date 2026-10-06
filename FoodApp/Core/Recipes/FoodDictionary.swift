@@ -32,8 +32,12 @@ struct FoodDictionaryEntry: Hashable, Sendable {
 }
 
 enum FoodDictionary {
-    /// Базовые продукты, которые почти всегда есть дома: не считаются недостающими.
-    static let staples: Set<String> = ["salt", "black_pepper", "water", "vegetable_oil", "sugar"]
+    /// Базовые продукты, которые почти всегда есть дома: не считаются недостающими
+    /// (соль, вода, масло, сахар, мука, разрыхлитель и сухие пряности).
+    static let staples: Set<String> = [
+        "salt", "black_pepper", "water", "vegetable_oil", "sugar",
+        "flour", "baking_powder", "bay_leaf", "paprika", "dried_herbs",
+    ]
 
     static let entries: [FoodDictionaryEntry] = [
         // Овощи
@@ -172,6 +176,7 @@ enum FoodDictionary {
         .init("pearl_barley", "Перловка", "🌾", .grains, unit: "г", synonyms: ["перловка", "перловая крупа", "pearl barley", "barley"]),
         .init("wine", "Вино", "🍷", .drinks, unit: "мл", synonyms: ["вино", "белое вино", "красное вино", "сухое вино", "wine", "white wine"]),
         .init("curry_powder", "Карри", "🧂", .spices, synonyms: ["карри", "приправа карри", "порошок карри", "curry", "curry powder"]),
+        .init("green_beans", "Стручковая фасоль", "🫛", .vegetables, unit: "г", synonyms: ["стручковая фасоль", "зеленая фасоль", "спаржевая фасоль", "green beans", "string beans"]),
         .init("broth", "Бульон", "🍲", .other, unit: "мл", synonyms: ["бульон", "куриный бульон", "овощной бульон", "broth", "stock"]),
     ]
 
@@ -191,7 +196,7 @@ enum FoodDictionary {
     /// Подсказки для ручного добавления продукта.
     static func suggestions(matching query: String, limit: Int = 12) -> [FoodDictionaryEntry] {
         let q = IngredientNormalizer.clean(query)
-        let visible = entries.filter { !staples.contains($0.key) }
+        let visible = entries.filter { !["salt", "water", "black_pepper"].contains($0.key) }
         guard !q.isEmpty else { return Array(popular.compactMap { byKey[$0] }.prefix(limit)) }
         return Array(
             visible.filter { entry in

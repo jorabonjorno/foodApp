@@ -22,6 +22,11 @@ struct MockFoodRecognitionService: FoodRecognitionService {
             ("Огурцы", 0.83, 2, "шт"),
             ("Молоко", 0.79, 1000, "мл"),
             ("Болгарский перец", 0.55, 1, "шт"),
+            ("Картофель", 0.9, 5, "шт"),
+            ("Морковь", 0.87, 2, "шт"),
+            ("Чеснок", 0.72, 1, "головка"),
+            ("Сливочное масло", 0.81, 180, "г"),
+            ("Сметана", 0.68, 300, "г"),
         ]
         return samples.map { name, confidence, quantity, unit in
             let key = normalizer.normalize(name)
