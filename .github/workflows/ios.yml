@@ -81,6 +81,31 @@ jobs:
           fi
           exit $STATUS
 
+      # Сборка для симулятора (mock-режим) — для проверки в браузере через appetize.io без Mac.
+      - name: Build simulator app
+        if: github.ref == 'refs/heads/main'
+        run: |
+          set -o pipefail
+          xcodebuild build \
+            -project FoodApp.xcodeproj \
+            -scheme FoodApp \
+            -configuration Debug \
+            -sdk iphonesimulator \
+            -destination "generic/platform=iOS Simulator" \
+            -derivedDataPath build \
+            ARCHS="arm64 x86_64" ONLY_ACTIVE_ARCH=NO \
+            CODE_SIGNING_ALLOWED=NO | tail -n 5
+          cd build/Build/Products/Debug-iphonesimulator
+          zip -qry "$GITHUB_WORKSPACE/FoodApp-simulator.zip" FoodApp.app
+
+      - name: Upload simulator app
+        if: github.ref == 'refs/heads/main'
+        uses: actions/upload-artifact@v4
+        with:
+          name: FoodApp-simulator
+          path: FoodApp-simulator.zip
+          retention-days: 30
+
       - name: Upload logs
         if: always()
         uses: actions/upload-artifact@v4
