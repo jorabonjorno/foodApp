@@ -71,6 +71,9 @@ jobs:
             CODE_SIGNING_ALLOWED=NO > xcodebuild.log 2>&1
           STATUS=$?
           grep -E "error:|Test Case .*failed|\*\* (BUILD|TEST) (SUCCEEDED|FAILED)|Executed [0-9]+ test" xcodebuild.log | sort -u | head -200
+          # Итог тестов — аннотацией, чтобы он был виден без входа в GitHub.
+          SUMMARY=$(grep -E "Executed [0-9]+ tests?, with" xcodebuild.log | tail -1 | sed 's/^[[:space:]]*//')
+          [ -n "$SUMMARY" ] && echo "::notice title=Unit tests::$SUMMARY"
           if [ $STATUS -ne 0 ]; then
             echo "----- tail -----"; tail -n 60 xcodebuild.log
             # Ошибки → аннотации GitHub (видны на странице прогона и через API без логина).
