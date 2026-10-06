@@ -165,6 +165,9 @@ enum FoodDictionary {
         .init("pesto", "Песто", "🌿", .sauces, unit: "г", synonyms: ["песто", "соус песто", "pesto"]),
         .init("leek", "Лук-порей", "🧅", .vegetables, unit: "г", parent: "onion", synonyms: ["лук-порей", "лук порей", "порей", "leek", "leeks"]),
         .init("smoked_meat", "Копчёности", "🥓", .meat, unit: "г", synonyms: ["копчености", "копченая грудинка", "грудинка копченая", "свиная грудинка", "копченые ребрышки", "smoked meat"]),
+        .init("herring", "Сельдь", "🐟", .fish, unit: "г", parent: "fish", synonyms: ["сельдь", "селедка", "сельдь слабосоленая", "филе сельди", "herring"]),
+        .init("pineapple", "Ананасы", "🍍", .fruits, unit: "г", synonyms: ["ананас", "ананасы", "консервированные ананасы", "pineapple"]),
+        .init("cookies", "Печенье", "🍪", .sweets, unit: "г", synonyms: ["печенье", "сахарное печенье", "песочное печенье", "cookies", "biscuits"]),
         .init("broth", "Бульон", "🍲", .other, unit: "мл", synonyms: ["бульон", "куриный бульон", "овощной бульон", "broth", "stock"]),
     ]
 
