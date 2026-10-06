@@ -163,6 +163,8 @@ enum FoodDictionary {
         .init("bay_leaf", "Лавровый лист", "🍃", .spices, synonyms: ["лавровый лист", "лавр", "bay leaf"]),
         .init("sesame", "Кунжут", "🌰", .nuts, unit: "г", synonyms: ["кунжут", "sesame", "sesame seeds"]),
         .init("pesto", "Песто", "🌿", .sauces, unit: "г", synonyms: ["песто", "соус песто", "pesto"]),
+        .init("leek", "Лук-порей", "🧅", .vegetables, unit: "г", parent: "onion", synonyms: ["лук-порей", "лук порей", "порей", "leek", "leeks"]),
+        .init("smoked_meat", "Копчёности", "🥓", .meat, unit: "г", synonyms: ["копчености", "копченая грудинка", "грудинка копченая", "свиная грудинка", "копченые ребрышки", "smoked meat"]),
         .init("broth", "Бульон", "🍲", .other, unit: "мл", synonyms: ["бульон", "куриный бульон", "овощной бульон", "broth", "stock"]),
     ]
 

@@ -8253,5 +8253,849 @@
    "Добавьте немного жидкости до кремовой консистенции, посолите."
   ],
   "emoji": "🫘"
+ },
+ {
+  "id": "fr-solyanka-sbornaya",
+  "title": "Сборная солянка",
+  "description": "Насыщенный кисло-солёный суп из нескольких видов колбасы и мяса с огурцами и маслинами.",
+  "cookingTimeMinutes": 40,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Копчёная колбаса и сосиски",
+    "normalizedName": "sausage",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Копчёно-варёная говядина",
+    "normalizedName": "beef",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Солёные огурцы",
+    "normalizedName": "pickles",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Томатная паста",
+    "normalizedName": "tomato_paste",
+    "quantity": 30.0,
+    "unit": "г"
+   },
+   {
+    "name": "Оливки",
+    "normalizedName": "olives",
+    "quantity": 12.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Бульонный кубик",
+    "normalizedName": "broth",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 1.3,
+    "unit": "л"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 20.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "quantity": 30.0,
+    "unit": "г",
+    "optional": true
+   },
+   {
+    "name": "Лимон",
+    "normalizedName": "lemon",
+    "unit": "для подачи",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Нарежьте соломкой лук, колбасу, сосиски, говядину и огурцы.",
+   "Около 2 минут пассеруйте лук на масле, не давая ему потемнеть, затем добавьте томат и прогрейте ещё минуту.",
+   "В кипящую воду раскрошите кубики, добавьте мясные продукты, огурцы, маслины и лук с томатом, посолите и варите 5 минут на сильном огне.",
+   "Снимите с огня и дайте постоять 10 минут. Подавайте с долькой лимона, зеленью и сметаной."
+  ],
+  "emoji": "🍲"
+ },
+ {
+  "id": "fr-sup-frikadelki-vermishel",
+  "title": "Суп с фрикадельками и вермишелью",
+  "description": "Домашний суп с нежными свиными фрикадельками, картофелем и вермишелью.",
+  "cookingTimeMinutes": 60,
+  "difficulty": "easy",
+  "servings": 5,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Свиная шея",
+    "normalizedName": "pork",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Вермишель",
+    "normalizedName": "pasta",
+    "quantity": 100.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лавровый лист",
+    "normalizedName": "bay_leaf",
+    "quantity": 1.0,
+    "unit": "шт",
+    "optional": true
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 2.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 2.0,
+    "unit": "л"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Прокрутите свинину через мясорубку, посолите, поперчите и хорошенько отбейте фарш о стол, чтобы он стал плотнее.",
+   "Доведите воду до кипения, мокрыми руками скатайте небольшие фрикадельки и опустите их в кипяток.",
+   "Добавьте картофель брусочками, тёртую морковь, лавровый лист и соль, после закипания варите 10 минут.",
+   "Обжарьте мелко нарезанный лук на масле до лёгкой золотистости и переложите в суп.",
+   "Всыпьте вермишель, проварите 2 минуты и снимите с огня."
+  ],
+  "emoji": "🍲"
+ },
+ {
+  "id": "fr-syrnyi-sup-kurica-griby",
+  "title": "Сырный суп с курицей и грибами",
+  "description": "Сливочный суп на курином бульоне с шампиньонами и плавленым сыром.",
+  "cookingTimeMinutes": 60,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Куриная грудка",
+    "normalizedName": "chicken_breast",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Шампиньоны",
+    "normalizedName": "mushroom",
+    "quantity": 160.0,
+    "unit": "г"
+   },
+   {
+    "name": "Плавленый сыр",
+    "normalizedName": "processed_cheese",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 1.0,
+    "unit": "л"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Залейте грудку водой, доведите до кипения, снимите пену, посолите и варите 30 минут на слабом огне.",
+   "Тем временем 5 минут обжарьте лук и тёртую морковь, затем добавьте ломтики шампиньонов и томите под крышкой ещё 5 минут.",
+   "Достаньте курицу, нарежьте, бульон процедите и снова вскипятите.",
+   "Положите в бульон картофель брусочками и курицу, варите 10 минут, затем добавьте зажарку с грибами и варите ещё 5 минут.",
+   "Добавьте плавленый сыр и мешайте, пока он не растворится, поперчите."
+  ],
+  "emoji": "🧀"
+ },
+ {
+  "id": "fr-syrnyi-krem-sup",
+  "title": "Сырный крем-суп с овощами",
+  "description": "Бархатный суп-пюре из картофеля, моркови и сладкого перца с плавленым сыром.",
+  "cookingTimeMinutes": 60,
+  "difficulty": "easy",
+  "servings": 2,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Плавленый сыр",
+    "normalizedName": "processed_cheese",
+    "quantity": 200.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 80.0,
+    "unit": "г"
+   },
+   {
+    "name": "Болгарский перец",
+    "normalizedName": "bell_pepper",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 400.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Гренки",
+    "normalizedName": "bread",
+    "quantity": 2.0,
+    "unit": "ст. л.",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Нарежьте картофель, морковь и перец небольшими кусочками, лук — мелким кубиком.",
+   "Варите картофель, морковь и перец в воде около 25 минут до мягкости.",
+   "Обжарьте лук на масле до прозрачности и добавьте к овощам вместе с плавленым сыром.",
+   "Пюрируйте суп блендером, посолите и подавайте с гренками."
+  ],
+  "emoji": "🧀"
+ },
+ {
+  "id": "fr-sup-pure-brokkoli",
+  "title": "Суп-пюре из брокколи со сливками",
+  "description": "Нежный зелёный суп из брокколи и картофеля со сливками и чесночными гренками.",
+  "cookingTimeMinutes": 30,
+  "difficulty": "easy",
+  "servings": 6,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Брокколи",
+    "normalizedName": "broccoli",
+    "quantity": 500.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Сливки",
+    "normalizedName": "cream",
+    "quantity": 250.0,
+    "unit": "г"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Багет для гренок",
+    "normalizedName": "bread",
+    "quantity": 1.0,
+    "unit": "шт",
+    "optional": true
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 1.0,
+    "unit": "л"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Разберите брокколи на соцветия, нарежьте картофель.",
+   "Вскипятите около литра воды, посолите и сварите картофель с брокколи до мягкости.",
+   "Отдельно 3–4 минуты потомите лук на сковороде до мягкости и добавьте в кастрюлю.",
+   "Для гренок обжарьте ломтики багета на масле по 1–2 минуты с каждой стороны и натрите чесноком.",
+   "Пюрируйте суп блендером, влейте сливки и прогрейте, не доводя до кипения."
+  ],
+  "emoji": "🥦"
+ },
+ {
+  "id": "fr-syrnyi-sup-kolbasa-yaico",
+  "title": "Сырный суп с колбасой и яйцом",
+  "description": "Быстрый сытный суп с варёно-копчёной колбасой, плавленым сыром и яичной «паутинкой».",
+  "cookingTimeMinutes": 30,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Варёно-копчёная колбаса",
+    "normalizedName": "sausage",
+    "quantity": 125.0,
+    "unit": "г"
+   },
+   {
+    "name": "Плавленый сыр",
+    "normalizedName": "processed_cheese",
+    "quantity": 50.0,
+    "unit": "г"
+   },
+   {
+    "name": "Яйца",
+    "normalizedName": "egg",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 1.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Зелень",
+    "normalizedName": "herbs",
+    "quantity": 10.0,
+    "unit": "г",
+    "optional": true
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 1.0,
+    "unit": "л"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Залейте картофель брусочками литром воды и варите 15 минут после закипания.",
+   "Обжарьте лук и морковь соломкой 5 минут, добавьте кубики колбасы, чеснок и зелень и готовьте ещё 5 минут.",
+   "Переложите зажарку в суп и растворите в нём плавленый сыр, нарезанный пластинками.",
+   "Влейте взбитое яйцо тонкой струйкой, помешивая суп, снимите с огня и дайте настояться 10 минут."
+  ],
+  "emoji": "🧀"
+ },
+ {
+  "id": "fr-gribnoi-sup-pure",
+  "title": "Грибной суп-пюре",
+  "description": "Кремовый суп из шампиньонов и картофеля со сливками.",
+  "cookingTimeMinutes": 40,
+  "difficulty": "easy",
+  "servings": 8,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Шампиньоны",
+    "normalizedName": "mushroom",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 5.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 150.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сливки",
+    "normalizedName": "cream",
+    "quantity": 200.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "unit": "для жарки"
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 1.5,
+    "unit": "л"
+   },
+   {
+    "name": "Сухарики",
+    "normalizedName": "bread",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Отварите картофель кубиками в кипящей воде.",
+   "Обжарьте лук до прозрачности, добавьте морковь и грибы и жарьте до готовности.",
+   "Отлейте половину отвара, добавьте зажарку к картофелю и пюрируйте блендером, понемногу вливая сливки; при необходимости разбавьте отваром.",
+   "Посолите, поперчите и подавайте с сухариками."
+  ],
+  "emoji": "🍄"
+ },
+ {
+  "id": "fr-kartofelnyi-sup-kurica",
+  "title": "Картофельный суп с курицей",
+  "description": "Простой домашний суп на курином бульоне с картофелем и овощной зажаркой.",
+  "cookingTimeMinutes": 80,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Куриный окорочок",
+    "normalizedName": "chicken_thigh",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 3.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 1.0,
+    "unit": "л"
+   },
+   {
+    "name": "Приправа для птицы",
+    "normalizedName": "dried_herbs",
+    "quantity": 1.0,
+    "unit": "ч. л.",
+    "optional": true
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "unit": "для подачи",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 1.0,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Залейте курицу водой, доведите до кипения, снимите пену, посолите и варите 30 минут на слабом огне.",
+   "Снимите мясо с костей и нарежьте, бульон процедите и верните на огонь.",
+   "Положите картофель брусочками и варите 20 минут.",
+   "5 минут обжарьте лук полукольцами, тёртую морковь и чеснок, добавьте в суп вместе с курицей и приправой и варите ещё 5 минут."
+  ],
+  "emoji": "🍗"
+ },
+ {
+  "id": "fr-shchi-kapustnye",
+  "title": "Щи из свежей капусты с говядиной",
+  "description": "Классические щи на говяжьем бульоне с томатной зажаркой.",
+  "cookingTimeMinutes": 80,
+  "difficulty": "medium",
+  "servings": 4,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Говядина на кости",
+    "normalizedName": "beef",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Капуста",
+    "normalizedName": "cabbage",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Помидоры",
+    "normalizedName": "tomato",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 0.5,
+    "unit": "шт"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 2.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Лавровый лист",
+    "normalizedName": "bay_leaf",
+    "quantity": 1.0,
+    "unit": "шт",
+    "optional": true
+   },
+   {
+    "name": "Петрушка",
+    "normalizedName": "parsley",
+    "quantity": 8.0,
+    "unit": "г",
+    "optional": true
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 2.0,
+    "unit": "л"
+   },
+   {
+    "name": "Сметана",
+    "normalizedName": "sour_cream",
+    "unit": "для подачи",
+    "optional": true
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 0.5,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "Сварите говядину в 2 л воды до готовности на среднем огне.",
+   "Нарежьте картофель кубиками, капусту — полосками, лук — кубиками, морковь натрите; с помидора снимите кожицу и нарежьте мякоть.",
+   "Обжарьте лук 1–2 минуты, добавьте морковь на 3–4 минуты, затем помидор ещё на 2–3 минуты.",
+   "Мясо достаньте, бульон процедите, вскипятите и отварите в нём картофель с капустой.",
+   "Добавьте зажарку, лавровый лист, соль и перец, через 3–4 минуты верните нарезанное мясо и варите до мягкости капусты.",
+   "В конце добавьте чеснок и петрушку и выключите огонь."
+  ],
+  "emoji": "🥬"
+ },
+ {
+  "id": "fr-gribnoi-sup-prostoi",
+  "title": "Простой грибной суп со сливками",
+  "description": "Сливочный суп-пюре из шампиньонов, картофеля и лука-порея с тимьяном.",
+  "cookingTimeMinutes": 30,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Шампиньоны",
+    "normalizedName": "mushroom",
+    "quantity": 400.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук-порей",
+    "normalizedName": "leek",
+    "quantity": 150.0,
+    "unit": "г"
+   },
+   {
+    "name": "Сливки",
+    "normalizedName": "cream",
+    "quantity": 420.0,
+    "unit": "г"
+   },
+   {
+    "name": "Чеснок",
+    "normalizedName": "garlic",
+    "quantity": 1.0,
+    "unit": "зуб."
+   },
+   {
+    "name": "Тимьян",
+    "normalizedName": "dried_herbs",
+    "unit": "щепотка",
+    "optional": true
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 600.0,
+    "unit": "мл"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "quantity": 0.5,
+    "unit": "ч. л."
+   }
+  ],
+  "steps": [
+   "В кипящую воду положите кусочки картофеля и полукольца порея и варите 5 минут.",
+   "Добавьте нарезанные шампиньоны и варите ещё 10 минут после закипания.",
+   "Вскипятите сливки с выдавленным чесноком и тимьяном.",
+   "Пюрируйте суп блендером, постепенно вливая сливки, посолите, поперчите и дайте настояться под крышкой 10 минут."
+  ],
+  "emoji": "🍄"
+ },
+ {
+  "id": "fr-gorohovyi-sup-kopchenosti",
+  "title": "Гороховый суп с копчёностями",
+  "description": "Густой ароматный суп из колотого гороха с копчёной грудинкой.",
+  "cookingTimeMinutes": 70,
+  "difficulty": "easy",
+  "servings": 4,
+  "mealType": "soup",
+  "ingredients": [
+   {
+    "name": "Колотый горох",
+    "normalizedName": "peas",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Копчёная свиная грудинка",
+    "normalizedName": "smoked_meat",
+    "quantity": 300.0,
+    "unit": "г"
+   },
+   {
+    "name": "Картофель",
+    "normalizedName": "potato",
+    "quantity": 2.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Лук",
+    "normalizedName": "onion",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Морковь",
+    "normalizedName": "carrot",
+    "quantity": 1.0,
+    "unit": "шт"
+   },
+   {
+    "name": "Растительное масло",
+    "normalizedName": "vegetable_oil",
+    "quantity": 1.0,
+    "unit": "ст. л."
+   },
+   {
+    "name": "Лавровый лист",
+    "normalizedName": "bay_leaf",
+    "quantity": 1.0,
+    "unit": "шт",
+    "optional": true
+   },
+   {
+    "name": "Вода",
+    "normalizedName": "water",
+    "quantity": 2.5,
+    "unit": "л"
+   },
+   {
+    "name": "Соль",
+    "normalizedName": "salt",
+    "unit": "по вкусу"
+   }
+  ],
+  "steps": [
+   "Промойте горох, залейте литром воды, проварите 3 минуты после закипания и слейте воду; повторите ещё раз.",
+   "Залейте горох 1,5 л воды, вскипятите, снимите пену, добавьте кусочки грудинки и варите под крышкой до мягкости гороха.",
+   "5 минут обжарьте лук с тёртой морковью.",
+   "Добавьте зажарку и картофель брусками, посолите, поперчите, положите лавровый лист и варите ещё 15 минут."
+  ],
+  "emoji": "🫛"
  }
 ]
